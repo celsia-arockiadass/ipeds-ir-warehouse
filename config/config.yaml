@@ -1,0 +1,61 @@
+# Pipeline configuration.
+#
+# This file IS committed. It contains no secrets, only settings a reviewer
+# needs in order to understand and rerun the pipeline. Anything sensitive
+# lives in .env, which is not committed. See .env.example.
+#
+# Values here can be overridden by environment variables of the same name in
+# uppercase, so a different machine can point at a different server without
+# editing this file.
+
+database:
+  driver: "ODBC Driver 18 for SQL Server"
+  server: "localhost"
+  name: "IR_DW"
+  # Windows authentication. On a machine using SQL authentication instead,
+  # set trusted_connection to false and supply DB_USER and DB_PASSWORD in .env.
+  trusted_connection: true
+  # Required for a local default instance using a self signed certificate.
+  # A production server with a proper certificate would set this to false.
+  trust_server_certificate: true
+  connect_timeout_seconds: 30
+
+schemas:
+  staging: "stg"
+  warehouse: "dw"
+  utility: "util"
+
+paths:
+  raw: "data/raw"
+  interim: "data/interim"
+  logs: "data/logs"
+  reports: "reports"
+
+ingest:
+  # Direct download pattern for IPEDS complete data files.
+  # Verified in build step 4.2 before the downloader is written.
+  base_url: "https://nces.ed.gov/ipeds/datacenter/data"
+  # Survey years to load. IPEDS labels a file by the fall of the academic
+  # year it covers, so 2023 means the 2023-24 collection.
+  year_start: 2014
+  year_end: 2023
+  request_timeout_seconds: 120
+  max_retries: 3
+  retry_backoff_seconds: 5
+  # Politeness delay between downloads against a public federal server.
+  delay_between_requests_seconds: 1
+
+logging:
+  level: "INFO"
+  file: "data/logs/pipeline.log"
+  # Every run appends. The log is a record of what happened, not a scratchpad.
+  rotate_max_bytes: 10485760
+  rotate_backup_count: 5
+
+validation:
+  # Year over year change beyond this proportion is flagged for human review,
+  # not failed. IPEDS edit checks distinguish errors from warnings and so do we.
+  yoy_change_warning_threshold: 0.20
+  # Cells below this count are suppressed in published output.
+  # See docs/governance.md for the disclosure avoidance reasoning.
+  small_cell_suppression_threshold: 10
