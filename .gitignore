@@ -1,0 +1,71 @@
+# Raw and derived data are never committed.
+# The repository ships the code that produces the data, not the data itself.
+# Anyone cloning this repo rebuilds it from source with one command.
+# IPEDS files are public and stable, so re-downloading is cheap and the
+# alternative, a multi-gigabyte repository, is not.
+data/raw/
+data/interim/
+data/logs/
+*.zip
+*.csv
+*.parquet
+
+# Exception: small reference files that ARE part of the repository.
+!config/*.csv
+!docs/*.csv
+!requirements.txt
+
+# Secrets. Never commit.
+.env
+*.pem
+*.key
+credentials.json
+
+# Personal documents. This repository is public.
+# The resume and transcript contain a phone number, a home city and academic
+# records. None of that belongs on the internet.
+*.pdf
+Celsia_Arockiadass_Master_Resume_Updated.pdf
+MS-DA-Unofficial Transcript.pdf
+
+# Private working memory, deliberately excluded from the public repository.
+# BUILD_PLAN.md and PROGRESS.md reference the job search: named employers,
+# rejections, and the gap analysis behind this project. They are the reason
+# the project exists and they are excellent working documents, but they are
+# not for public consumption. The repository carries README.md and the docs/
+# folder instead, written for a hiring institutional research director.
+BUILD_PLAN.md
+PROGRESS.md
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Power BI temporary files. The .pbix itself IS committed.
+*.pbix.tmp
+~$*
+
+# SQL Server local artifacts
+*.mdf
+*.ldf
+*.bak
+
+# Editors and OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+*.swp
+
+# Windows shortcut and lock files
+*.lnk
