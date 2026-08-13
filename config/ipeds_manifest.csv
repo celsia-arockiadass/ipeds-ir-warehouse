@@ -1,0 +1,502 @@
+collection_year,collection_label,survey,table_name,table_title,release,url
+2014,201415,Institutional Characteristics,HD2014,Directory information,Provisional/final (institutions will not  be allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/HD2014.zip
+2014,201415,Institutional Characteristics,FLAGS2014,Response status for all survey components,Final/Revised,https://nces.ed.gov/ipeds/datacenter/data/FLAGS2014.zip
+2014,201415,Institutional Characteristics,IC2014,"Educational offerings, organization, admissions, services and athletic associations",Final/Revised,https://nces.ed.gov/ipeds/datacenter/data/IC2014.zip
+2014,201415,Institutional Characteristics,IC2014_AY,Student charges for academic year programs,Provisional/final (institutions will not  be allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/IC2014_AY.zip
+2014,201415,Institutional Characteristics,IC2014_PY,Student charges by program (vocational programs),Provisional/final (institutions will not  be allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/IC2014_PY.zip
+2014,201415,Institutional Characteristics,DRVIC2014,Frequently used derived variables (IC): Total cost of attendance,Provisional (institutions will not  be allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/DRVIC2014.zip
+2014,201415,Institutional Characteristics,IC2014MISSION,Mission statement,Provisional,https://nces.ed.gov/ipeds/datacenter/data/IC2014MISSION.zip
+2014,201415,Institutional Characteristics,CUSTOMCGIDS2014,Custom comparison groups,Provisional/final (institutions will not  be allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/CUSTOMCGIDS2014.zip
+2014,201415,Fall Enrollment,EF2014,"Gender, attendance status, and level of student: Fall 2014",Final/Revised,https://nces.ed.gov/ipeds/datacenter/data/EF2014.zip
+2014,201415,Fall Enrollment,EF2014A,"Race/ethnicity, gender, attendance status, and level of student: Fall 2014",Final/Revised,https://nces.ed.gov/ipeds/datacenter/data/EF2014A.zip
+2014,201415,Fall Enrollment,EF2014CP,"Major field of study, race/ethnicity, gender, attendance status, and level of student: Fall 2014",Final/Revised,https://nces.ed.gov/ipeds/datacenter/data/EF2014CP.zip
+2014,201415,Fall Enrollment,EF2014B,"Age category, gender, attendance status, and level of student: Fall 2014 (optional)",Final/Revised,https://nces.ed.gov/ipeds/datacenter/data/EF2014B.zip
+2014,201415,Fall Enrollment,EF2014C,Residence and migration of first-time freshman: Fall 2014,Final/Revised,https://nces.ed.gov/ipeds/datacenter/data/EF2014C.zip
+2014,201415,Fall Enrollment,EF2014D,"Total entering class, retention rates, and student-to-faculty ratio: Fall 2014",Final/Revised,https://nces.ed.gov/ipeds/datacenter/data/EF2014D.zip
+2014,201415,Fall Enrollment,EF2014A_DIST,Distance education status and level of student: Fall 2014,Final/Revised,https://nces.ed.gov/ipeds/datacenter/data/EF2014A_DIST.zip
+2014,201415,Fall Enrollment,DRVEF2014,Frequently used derived variables (EF): Fall enrollment 2014,Final/Revised,https://nces.ed.gov/ipeds/datacenter/data/DRVEF2014.zip
+2014,201415,Completions,C2014_A,"Awards/degrees conferred by program (6-digit CIP code), award level, race/ethnicity, and gender: July 1, 2013 to June 30, 2014",Final/Revised,https://nces.ed.gov/ipeds/datacenter/data/C2014_A.zip
+2014,201415,Completions,C2014_B,"Number of students receiving awards/degrees, by race/ethnicity and gender: July 1, 2013 to June 30, 2014",Final/Revised,https://nces.ed.gov/ipeds/datacenter/data/C2014_B.zip
+2014,201415,Completions,C2014_C,"Number of students receiving awards/degrees, by award level and by gender, race/ethnicity and age categories: July 1, 2013 to June 30, 2014",Final/Revised,https://nces.ed.gov/ipeds/datacenter/data/C2014_C.zip
+2014,201415,Completions,C2014DEP,"Number of programs offered and number of programs offered via distance education, by award level: July 1, 2013 to June 30, 2014",Final/Revised,https://nces.ed.gov/ipeds/datacenter/data/C2014DEP.zip
+2014,201415,Completions,DRVC2014,"Frequently used derived variables (C): Completions, July 1, 2013 to June 30, 2014",Final/Revised,https://nces.ed.gov/ipeds/datacenter/data/DRVC2014.zip
+2014,201415,Finance,F1314_F1A,Public institutions - GASB 34/35: Fiscal year 2014,Final/Revised,https://nces.ed.gov/ipeds/datacenter/data/F1314_F1A.zip
+2014,201415,Finance,F1314_F2,Private not-for-profit institutions or Public institutions using FASB: Fiscal year 2014,Final/Revised,https://nces.ed.gov/ipeds/datacenter/data/F1314_F2.zip
+2014,201415,Finance,F1314_F3,Private for-profit institutions: Fiscal year 2014,Final/Revised,https://nces.ed.gov/ipeds/datacenter/data/F1314_F3.zip
+2014,201415,Finance,DRVF2014,Frequently used/derived variables Finance (F): Fiscal year 2014,Final/Revised,https://nces.ed.gov/ipeds/datacenter/data/DRVF2014.zip
+2014,201415,Student Financial Aid,SFA1314_P1,Student financial aid: 2013-14,Final/Revised,https://nces.ed.gov/ipeds/datacenter/data/SFA1314_P1.zip
+2014,201415,Student Financial Aid,SFA1314_P2,"Student financial aid and net price: 2011-12, 2012-13, and 2013-14",Final/Revised,https://nces.ed.gov/ipeds/datacenter/data/SFA1314_P2.zip
+2014,201415,Student Financial Aid,SFAV1314,"Military Servicemembers and Veteran's Benefits, 2013-14",Final/Revised,https://nces.ed.gov/ipeds/datacenter/data/SFAV1314.zip
+2014,201415,Graduation Rates,GR2014,"Graduation rate data, 150% of normal time to complete - cohort year 2008 (4-year) and cohort year 2011 (2-year) institutions",Final/Revised,https://nces.ed.gov/ipeds/datacenter/data/GR2014.zip
+2014,201415,Graduation Rates,GR2014_L2,"Graduation rate data, 150% of normal time to complete - cohort year 2011 (less-than-2-year institutions)",Final/Revised,https://nces.ed.gov/ipeds/datacenter/data/GR2014_L2.zip
+2014,201415,Graduation Rates,GR200_14,"Graduation rate data, 200% of normal time to complete - cohort year 2006  (4-year) and cohort year 2010 (less-than-4-year)  institutions",Final/Revised,https://nces.ed.gov/ipeds/datacenter/data/GR200_14.zip
+2014,201415,Graduation Rates,DRVGR2014,Frequently used derived variables (GR) 150% of normal time to complete - cohort year 2008 (4-year) and cohort year 2011 (2-year) institutions,Final/Revised,https://nces.ed.gov/ipeds/datacenter/data/DRVGR2014.zip
+2014,201415,Human Resources,EAP2014,"Number of staff by occupational category, faculty and tenure status:  Fall 2014",Final/Revised,https://nces.ed.gov/ipeds/datacenter/data/EAP2014.zip
+2014,201415,Human Resources,SAL2014_IS,"Number and salary outlays for full-time nonmedical instructional staff, by  gender, and academic rank:  Academic year 2014-15",Final/Revised,https://nces.ed.gov/ipeds/datacenter/data/SAL2014_IS.zip
+2014,201415,Human Resources,SAL2014_NIS,Number and salary outlays for full-time nonmedical  noninstructional staff by occupation: Academic year 2014-15,Final/Revised,https://nces.ed.gov/ipeds/datacenter/data/SAL2014_NIS.zip
+2014,201415,Human Resources,S2014_OC,"Full- and part-time staff by occupational category, race/ethnicity, and gender:  Fall 2014",Final/Revised,https://nces.ed.gov/ipeds/datacenter/data/S2014_OC.zip
+2014,201415,Human Resources,S2014_SIS,"Full-time instructional staff, by academic rank, faculty and tenure status  (Degree-granting institutions): Fall 2014",Final/Revised,https://nces.ed.gov/ipeds/datacenter/data/S2014_SIS.zip
+2014,201415,Human Resources,S2014_IS,"Full-time instructional staff, by faculty and tenure status, academic rank, race/ethnicity, and gender (Degree-granting institutions): Fall 2014",Final/Revised,https://nces.ed.gov/ipeds/datacenter/data/S2014_IS.zip
+2014,201415,Human Resources,S2014_NH,"New hires by occupational category, race/ethnicity, and gender (Degree-granting institutions):  Fall 2014",Final/Revised,https://nces.ed.gov/ipeds/datacenter/data/S2014_NH.zip
+2014,201415,Human Resources,DRVHR2014,Frequently used/derived variables Human resources (HR): Fall 2014,Final/Revised,https://nces.ed.gov/ipeds/datacenter/data/DRVHR2014.zip
+2014,201415,Admissions,ADM2014,"Admission considerations, applicants, admissions, and test scores",Final/Revised,https://nces.ed.gov/ipeds/datacenter/data/ADM2014.zip
+2014,201415,Admissions,DRVADM2014,Frequently used derived variables for admissions. Selectivity and admissions yield,Final/Revised,https://nces.ed.gov/ipeds/datacenter/data/DRVADM2014.zip
+2014,201415,12-month Enrollment,EFFY2014,12-month unduplicated headcount: 2013-14,Final/Revised,https://nces.ed.gov/ipeds/datacenter/data/EFFY2014.zip
+2014,201415,12-month Enrollment,EFIA2014,12-month instructional activity: 2013-14,Final/Revised,https://nces.ed.gov/ipeds/datacenter/data/EFIA2014.zip
+2014,201415,12-month Enrollment,DRVEF122014,"Frequently used derived variables (E12): 12-month enrollment, 2013-14",Final/Revised,https://nces.ed.gov/ipeds/datacenter/data/DRVEF122014.zip
+2014,201415,Academic Libraries,AL2014,"Academic Libraries, Fiscal year 2014",Final/Revised,https://nces.ed.gov/ipeds/datacenter/data/AL2014.zip
+2014,201415,Academic Libraries,DRVAL2014,Frequently used/derived variables Academic library indicators: Fiscal year 2014,Final/Revised,https://nces.ed.gov/ipeds/datacenter/data/DRVAL2014.zip
+2015,201516,Institutional Characteristics,HD2015,Directory information,Provisional/final (institutions will not  be allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/HD2015.zip
+2015,201516,Institutional Characteristics,FLAGS2015,Response status for all survey components,Final,https://nces.ed.gov/ipeds/datacenter/data/FLAGS2015.zip
+2015,201516,Institutional Characteristics,IC2015,"Educational offerings, organization, admissions, services and athletic associations",Final,https://nces.ed.gov/ipeds/datacenter/data/IC2015.zip
+2015,201516,Institutional Characteristics,IC2015_AY,Student charges for academic year programs,Provisional/final (institutions will not  be allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/IC2015_AY.zip
+2015,201516,Institutional Characteristics,IC2015_PY,Student charges by program (vocational programs),Provisional/final (institutions will not  be allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/IC2015_PY.zip
+2015,201516,Institutional Characteristics,DRVIC2015,Frequently used derived variables (IC): Total cost of attendance,Provisional (institutions will not  be allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/DRVIC2015.zip
+2015,201516,Institutional Characteristics,IC2015MISSION,Mission statement,Provisional,https://nces.ed.gov/ipeds/datacenter/data/IC2015MISSION.zip
+2015,201516,Institutional Characteristics,CUSTOMCGIDS2015,Custom comparison groups,Provisional/final (institutions will not  be allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/CUSTOMCGIDS2015.zip
+2015,201516,Admissions,ADM2015,"Admission considerations, applicants, admissions, and test scores",Final,https://nces.ed.gov/ipeds/datacenter/data/ADM2015.zip
+2015,201516,Admissions,DRVADM2015,Frequently used derived variables for admissions. Selectivity and admissions yield,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVADM2015.zip
+2015,201516,12-month Enrollment,EFFY2015,12-month unduplicated headcount: 2014-15,Final,https://nces.ed.gov/ipeds/datacenter/data/EFFY2015.zip
+2015,201516,12-month Enrollment,EFIA2015,12-month instructional activity: 2014-15,Final,https://nces.ed.gov/ipeds/datacenter/data/EFIA2015.zip
+2015,201516,12-month Enrollment,DRVEF122015,"Frequently used dervied variables (E12): 12-month enrollment, 2014-15",Final,https://nces.ed.gov/ipeds/datacenter/data/DRVEF122015.zip
+2015,201516,Fall Enrollment,EF2015,"Gender, attendance status, and level of student: Fall 2015",Final,https://nces.ed.gov/ipeds/datacenter/data/EF2015.zip
+2015,201516,Fall Enrollment,EF2015A,"Race/ethnicity, gender, attendance status, and level of student: Fall 2015",Final,https://nces.ed.gov/ipeds/datacenter/data/EF2015A.zip
+2015,201516,Fall Enrollment,EF2015B,"Age category, gender, attendance status, and level of student: Fall 2015 (optional)",Final,https://nces.ed.gov/ipeds/datacenter/data/EF2015B.zip
+2015,201516,Fall Enrollment,EF2015C,Residence and migration of first-time freshman: Fall 2015,Final,https://nces.ed.gov/ipeds/datacenter/data/EF2015C.zip
+2015,201516,Fall Enrollment,EF2015D,"Total entering class, retention rates, and student-to-faculty ratio: Fall 2015",Final,https://nces.ed.gov/ipeds/datacenter/data/EF2015D.zip
+2015,201516,Fall Enrollment,EF2015A_DIST,Distance education status and level of student: Fall 2015,Final,https://nces.ed.gov/ipeds/datacenter/data/EF2015A_DIST.zip
+2015,201516,Fall Enrollment,DRVEF2015,Frequently used derived variables (EF): Fall enrollment 2015,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVEF2015.zip
+2015,201516,Completions,C2015_A,"Awards/degrees conferred by program (6-digit CIP code), award level, race/ethnicity, and gender:July 1, 2014 to June 30, 2015",Final,https://nces.ed.gov/ipeds/datacenter/data/C2015_A.zip
+2015,201516,Completions,C2015_B,"Number of students receiving awards/degrees, by race/ethnicity and gender: July 1, 2014 to June 30, 2015",Final,https://nces.ed.gov/ipeds/datacenter/data/C2015_B.zip
+2015,201516,Completions,C2015_C,"Number of students receiving awards/degrees, by award level and by gender, race/ethnicity and age categories: July 1, 2014 to June 30, 2015",Final,https://nces.ed.gov/ipeds/datacenter/data/C2015_C.zip
+2015,201516,Completions,C2015DEP,"Number of programs offered and number of programs offered via distance education, by award level: July 1, 2014 to June 30, 2015",Final,https://nces.ed.gov/ipeds/datacenter/data/C2015DEP.zip
+2015,201516,Completions,DRVC2015,"Frequently used derived variables (C): Completions, July 1, 2014 to June 30, 2015",Final,https://nces.ed.gov/ipeds/datacenter/data/DRVC2015.zip
+2015,201516,Student Financial Aid,SFA1415_P1,Student financial aid: 2014-15,Final,https://nces.ed.gov/ipeds/datacenter/data/SFA1415_P1.zip
+2015,201516,Student Financial Aid,SFA1415_P2,Student financial aid and net price: 2014-15,Final,https://nces.ed.gov/ipeds/datacenter/data/SFA1415_P2.zip
+2015,201516,Student Financial Aid,SFAV1415,"Military Servicemembers and Veteran's Benefits, 2014-15",Final,https://nces.ed.gov/ipeds/datacenter/data/SFAV1415.zip
+2015,201516,Graduation Rates,GR2015,"Graduation rate data, 150% of normal time to complete - cohort year 2009 (4-year) and cohort year 2012 (2-year) institutions",Final,https://nces.ed.gov/ipeds/datacenter/data/GR2015.zip
+2015,201516,Graduation Rates,GR2015_L2,"Graduation rate data, 150% of normal time to complete - cohort year 2012 (less-than-2-year institutions)",Final,https://nces.ed.gov/ipeds/datacenter/data/GR2015_L2.zip
+2015,201516,Graduation Rates,GR200_15,"Graduation rate data, 200% of normal time to complete - cohort year 2006  (4-year) and cohort year 2010 (less-than-4-year)  institutions",Final,https://nces.ed.gov/ipeds/datacenter/data/GR200_15.zip
+2015,201516,Graduation Rates,DRVGR2015,Frequently used derived varables (GR) 150% of normal time to complete - cohort year 2009 (4-year) and cohort year 2012 (2-year) institutions,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVGR2015.zip
+2015,201516,Outcome Measures,OM2015,Award and enrollment data at six and eight years for four entering undergraduate cohorts from 2007 - degree granting institutions,Final,https://nces.ed.gov/ipeds/datacenter/data/OM2015.zip
+2015,201516,Finance,F1415_F1A,Public institutions - GASB 34/35: Fiscal year 2015,Final,https://nces.ed.gov/ipeds/datacenter/data/F1415_F1A.zip
+2015,201516,Finance,F1415_F2,Private not-for-profit institutions or Public institutions using FASB: Fiscal year 2015,Final,https://nces.ed.gov/ipeds/datacenter/data/F1415_F2.zip
+2015,201516,Finance,F1415_F3,Private for-profit institutions: Fiscal year 2015,Final,https://nces.ed.gov/ipeds/datacenter/data/F1415_F3.zip
+2015,201516,Finance,DRVF2015,Frequently used/derived variables Finance (F): Fiscal year 2015,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVF2015.zip
+2015,201516,Human Resources,EAP2015,"Number of staff by occupational category, faculty and tenure status:  Fall 2015",Final,https://nces.ed.gov/ipeds/datacenter/data/EAP2015.zip
+2015,201516,Human Resources,SAL2015_IS,"Number and salary outlays for full-time nonmedical instructional staff, by  gender, and academic rank:  Academic year 2015-16",Final,https://nces.ed.gov/ipeds/datacenter/data/SAL2015_IS.zip
+2015,201516,Human Resources,SAL2015_NIS,Number and salary outlays for full-time nonmedical  noninstructional staff by occupation: Academic year 2015-16,Final,https://nces.ed.gov/ipeds/datacenter/data/SAL2015_NIS.zip
+2015,201516,Human Resources,S2015_OC,"Full- and part-time staff by occupational category, race/ethnicity, and gender:  Fall 2015",Final,https://nces.ed.gov/ipeds/datacenter/data/S2015_OC.zip
+2015,201516,Human Resources,S2015_SIS,"Full-time instructional staff, by academic rank, faculty and tenure status  (Degree-granting institutions): Fall 2015",Final,https://nces.ed.gov/ipeds/datacenter/data/S2015_SIS.zip
+2015,201516,Human Resources,S2015_IS,"Full-time instructional staff, by faculty and tenure status, academic rank, race/ethnicity, and gender (Degree-granting institutions): Fall 2015",Final,https://nces.ed.gov/ipeds/datacenter/data/S2015_IS.zip
+2015,201516,Human Resources,S2015_NH,"New hires by occupational category, race/ethnicity, and gender (Degree-granting institutions):  Fall 2015",Final,https://nces.ed.gov/ipeds/datacenter/data/S2015_NH.zip
+2015,201516,Human Resources,DRVHR2015,Frequently used/derived variables Human resources (HR): Fall 2015,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVHR2015.zip
+2015,201516,Academic Libraries,AL2015,"Academic Libraries, 2015-16",Final,https://nces.ed.gov/ipeds/datacenter/data/AL2015.zip
+2015,201516,Academic Libraries,DRVAL2015,Frequently used/derived variables Academic library indicators: Fiscal year 2015,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVAL2015.zip
+2016,201617,Institutional Characteristics,HD2016,Directory information,Provisional/final (institutions are not  allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/HD2016.zip
+2016,201617,Institutional Characteristics,FLAGS2016,Response status for all survey components,Final,https://nces.ed.gov/ipeds/datacenter/data/FLAGS2016.zip
+2016,201617,Institutional Characteristics,IC2016,"Educational offerings, organization, admissions, services and athletic associations",Final,https://nces.ed.gov/ipeds/datacenter/data/IC2016.zip
+2016,201617,Institutional Characteristics,IC2016_AY,Student charges for academic year programs,Provisional/final (institutions are not  allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/IC2016_AY.zip
+2016,201617,Institutional Characteristics,IC2016_PY,Student charges by program (vocational programs),Provisional/final (institutions are not  allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/IC2016_PY.zip
+2016,201617,Institutional Characteristics,DRVIC2016,Frequently used derived variables (IC): Total cost of attendance,Provisional/final (institutions are not  allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/DRVIC2016.zip
+2016,201617,Institutional Characteristics,IC2016MISSION,Mission statement,Provisional/final (institutions are not  allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/IC2016MISSION.zip
+2016,201617,Institutional Characteristics,CUSTOMCGIDS2016,Custom comparison groups,Provisional/final (institutions are not  allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/CUSTOMCGIDS2016.zip
+2016,201617,Admissions,ADM2016,"Admission considerations, applicants, admissions, and test scores",Final,https://nces.ed.gov/ipeds/datacenter/data/ADM2016.zip
+2016,201617,Admissions,DRVADM2016,Frequently used derived variables for admissions. Selectivity and admissions yield,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVADM2016.zip
+2016,201617,12-month Enrollment,EFFY2016,12-month unduplicated headcount: 2015-16,Final,https://nces.ed.gov/ipeds/datacenter/data/EFFY2016.zip
+2016,201617,12-month Enrollment,EFIA2016,12-month instructional activity: 2015-16,Final,https://nces.ed.gov/ipeds/datacenter/data/EFIA2016.zip
+2016,201617,12-month Enrollment,DRVEF122016,"Frequently used derived variables (E12): 12-month enrollment, 2015-16",Final,https://nces.ed.gov/ipeds/datacenter/data/DRVEF122016.zip
+2016,201617,Fall Enrollment,EF2016,"Gender, attendance status, and level of student: Fall 2016",Final,https://nces.ed.gov/ipeds/datacenter/data/EF2016.zip
+2016,201617,Fall Enrollment,EF2016A,"Race/ethnicity, gender, attendance status, and level of student: Fall 2016",Final,https://nces.ed.gov/ipeds/datacenter/data/EF2016A.zip
+2016,201617,Fall Enrollment,EF2016CP,"Major field of study, race/ethnicity, gender, attendance status, and level of student: Fall 2016",Final,https://nces.ed.gov/ipeds/datacenter/data/EF2016CP.zip
+2016,201617,Fall Enrollment,EF2016B,"Age category, gender, attendance status, and level of student: Fall 2016 (optional)",Final,https://nces.ed.gov/ipeds/datacenter/data/EF2016B.zip
+2016,201617,Fall Enrollment,EF2016C,Residence and migration of first-time freshman: Fall 2016,Final,https://nces.ed.gov/ipeds/datacenter/data/EF2016C.zip
+2016,201617,Fall Enrollment,EF2016D,"Total entering class, retention rates, and student-to-faculty ratio: Fall 2016",Final,https://nces.ed.gov/ipeds/datacenter/data/EF2016D.zip
+2016,201617,Fall Enrollment,EF2016A_DIST,Distance education status and level of student: Fall 2016,Final,https://nces.ed.gov/ipeds/datacenter/data/EF2016A_DIST.zip
+2016,201617,Fall Enrollment,DRVEF2016,Frequently used derived variables (EF): Fall enrollment 2016,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVEF2016.zip
+2016,201617,Completions,C2016_A,"Awards/degrees conferred by program (6-digit CIP code), award level, race/ethnicity, and gender: July 1, 2015 to June 30, 2016",Final,https://nces.ed.gov/ipeds/datacenter/data/C2016_A.zip
+2016,201617,Completions,C2016_B,"Number of students receiving awards/degrees, by race/ethnicity and gender: July 1, 2015 to June 30, 2016",Final,https://nces.ed.gov/ipeds/datacenter/data/C2016_B.zip
+2016,201617,Completions,C2016_C,"Number of students receiving awards/degrees, by award level and by gender, race/ethnicity and age categories: July 1, 2015 to June 30, 2016",Final,https://nces.ed.gov/ipeds/datacenter/data/C2016_C.zip
+2016,201617,Completions,C2016DEP,"Number of programs offered and number of programs offered via distance education, by award level: July 1, 2015 to June 30, 2016",Final,https://nces.ed.gov/ipeds/datacenter/data/C2016DEP.zip
+2016,201617,Completions,DRVC2016,"Frequently used derived variables (C): Completions, July 1, 2015 to June 30, 2016",Final,https://nces.ed.gov/ipeds/datacenter/data/DRVC2016.zip
+2016,201617,Student Financial Aid,SFA1516_P1,Student financial aid: 2015-16,Final,https://nces.ed.gov/ipeds/datacenter/data/SFA1516_P1.zip
+2016,201617,Student Financial Aid,SFA1516_P2,Student financial aid and net price: 2015-16,Final,https://nces.ed.gov/ipeds/datacenter/data/SFA1516_P2.zip
+2016,201617,Student Financial Aid,SFAV1516,"Military Servicemembers and Veteran's Benefits, 2015-6",Final,https://nces.ed.gov/ipeds/datacenter/data/SFAV1516.zip
+2016,201617,Graduation Rates,GR2016,"Graduation rate data, 150% of normal time to complete - cohort year 2010 (4-year) and cohort year 2013 (2-year) institutions",Final,https://nces.ed.gov/ipeds/datacenter/data/GR2016.zip
+2016,201617,Graduation Rates,GR2016_L2,"Graduation rate data, 150% of normal time to complete - cohort year 2013 (less-than-2-year institutions)",Final,https://nces.ed.gov/ipeds/datacenter/data/GR2016_L2.zip
+2016,201617,Graduation Rates,GR2016_PELL_SSL,"Graduation rate data for Pell Grant and Subsidized Stafford loan recipients, 150% of normal time to complete - cohort year 2010 (4-year) and cohort year 2013 (2-year) institutions",Final,https://nces.ed.gov/ipeds/datacenter/data/GR2016_PELL_SSL.zip
+2016,201617,Graduation Rates,GR200_16,"Graduation rate data, 200% of normal time to complete - cohort year 2008  (4-year) and cohort year 2012 (less-than-4-year)  institutions",Final,https://nces.ed.gov/ipeds/datacenter/data/GR200_16.zip
+2016,201617,Graduation Rates,DRVGR2016,Frequently used derived variables (GR) 150% of normal time to complete - cohort year 2010 (4-year) and cohort year 2013 (2-year) institutions,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVGR2016.zip
+2016,201617,Outcome Measures,OM2016,Award and enrollment data at six and eight years for four entering undergraduate cohorts from 2008 - degree granting institutions,Final,https://nces.ed.gov/ipeds/datacenter/data/OM2016.zip
+2016,201617,Outcome Measures,DRVOM2016,"Frequently used derived variables (OM) Award and enrollment rates of degree/certificate-seeking undergraduates, 2008 cohort",Final,https://nces.ed.gov/ipeds/datacenter/data/DRVOM2016.zip
+2016,201617,Finance,F1516_F1A,Public institutions - GASB 34/35: Fiscal year 2016,Final,https://nces.ed.gov/ipeds/datacenter/data/F1516_F1A.zip
+2016,201617,Finance,F1516_F2,Private not-for-profit institutions or Public institutions using FASB: Fiscal year 2016,Final,https://nces.ed.gov/ipeds/datacenter/data/F1516_F2.zip
+2016,201617,Finance,F1516_F3,Private for-profit institutions: Fiscal year 2016,Final,https://nces.ed.gov/ipeds/datacenter/data/F1516_F3.zip
+2016,201617,Finance,DRVF2016,Frequently used/derived variables Finance (F): Fiscal year 2016,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVF2016.zip
+2016,201617,Human Resources,EAP2016,"Number of staff by occupational category, faculty and tenure status:  Fall 2016",Final,https://nces.ed.gov/ipeds/datacenter/data/EAP2016.zip
+2016,201617,Human Resources,SAL2016_IS,"Number and salary outlays for full-time nonmedical instructional staff, by  gender, and academic rank:  Academic year 2016-17",Final,https://nces.ed.gov/ipeds/datacenter/data/SAL2016_IS.zip
+2016,201617,Human Resources,SAL2016_NIS,Number and salary outlays for full-time nonmedical  noninstructional staff by occupation: Academic year 2016-17,Final,https://nces.ed.gov/ipeds/datacenter/data/SAL2016_NIS.zip
+2016,201617,Human Resources,S2016_OC,"Full- and part-time staff by occupational category, race/ethnicity, and gender:  Fall 2016",Final,https://nces.ed.gov/ipeds/datacenter/data/S2016_OC.zip
+2016,201617,Human Resources,S2016_SIS,"Full-time instructional staff, by academic rank, faculty and tenure status  (Degree-granting institutions): Fall 2016",Final,https://nces.ed.gov/ipeds/datacenter/data/S2016_SIS.zip
+2016,201617,Human Resources,S2016_IS,"Full-time instructional staff, by faculty and tenure status, academic rank, race/ethnicity, and gender (Degree-granting institutions): Fall 2016",Final,https://nces.ed.gov/ipeds/datacenter/data/S2016_IS.zip
+2016,201617,Human Resources,S2016_NH,"New hires by occupational category, race/ethnicity, and gender (Degree-granting institutions):  Fall 2016",Final,https://nces.ed.gov/ipeds/datacenter/data/S2016_NH.zip
+2016,201617,Human Resources,DRVHR2016,Frequently used/derived variables Human resources (HR): Fall 2016,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVHR2016.zip
+2016,201617,Academic Libraries,AL2016,"Academic Libraries, 2015-16",Final,https://nces.ed.gov/ipeds/datacenter/data/AL2016.zip
+2016,201617,Academic Libraries,DRVAL2016,Frequently used/derived variables Academic library indicators: Fiscal year 2016,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVAL2016.zip
+2017,201718,Institutional Characteristics,HD2017,Directory information,Provisional/final (institutions are not  allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/HD2017.zip
+2017,201718,Institutional Characteristics,FLAGS2017,Response status for all survey components,Final,https://nces.ed.gov/ipeds/datacenter/data/FLAGS2017.zip
+2017,201718,Institutional Characteristics,IC2017,"Educational offerings, organization, admissions, services and athletic associations",Final,https://nces.ed.gov/ipeds/datacenter/data/IC2017.zip
+2017,201718,Institutional Characteristics,IC2017_AY,Student charges for academic year programs,Provisional/final (institutions are not  allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/IC2017_AY.zip
+2017,201718,Institutional Characteristics,IC2017_PY,Student charges by program (vocational programs),Provisional/final (institutions are not  allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/IC2017_PY.zip
+2017,201718,Institutional Characteristics,DRVIC2017,Frequently used derived variables (IC): Total cost of attendance,Provisional/final (institutions are not  allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/DRVIC2017.zip
+2017,201718,Institutional Characteristics,IC2017MISSION,Mission statement,Provisional/final (institutions are not  allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/IC2017MISSION.zip
+2017,201718,Institutional Characteristics,CUSTOMCGIDS2017,Custom comparison groups,Provisional/final (institutions are not  allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/CUSTOMCGIDS2017.zip
+2017,201718,Admissions,ADM2017,"Admission considerations, applicants, admissions, and test scores",Final,https://nces.ed.gov/ipeds/datacenter/data/ADM2017.zip
+2017,201718,Admissions,DRVADM2017,Frequently used derived variables for admissions. Selectivity and admissions yield,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVADM2017.zip
+2017,201718,12-month Enrollment,EFFY2017,12-month unduplicated headcount: 2016-17,Final,https://nces.ed.gov/ipeds/datacenter/data/EFFY2017.zip
+2017,201718,12-month Enrollment,EFIA2017,12-month instructional activity: 2016-17,Final,https://nces.ed.gov/ipeds/datacenter/data/EFIA2017.zip
+2017,201718,12-month Enrollment,DRVEF122017,"Frequently used derived variables (E12): 12-month enrollment, 2016-17",Final,https://nces.ed.gov/ipeds/datacenter/data/DRVEF122017.zip
+2017,201718,Fall Enrollment,EF2017,"Gender, attendance status, and level of student: Fall 2017",Final,https://nces.ed.gov/ipeds/datacenter/data/EF2017.zip
+2017,201718,Fall Enrollment,EF2017A,"Race/ethnicity, gender, attendance status, and level of student: Fall 2017",Final,https://nces.ed.gov/ipeds/datacenter/data/EF2017A.zip
+2017,201718,Fall Enrollment,EF2017B,"Age category, gender, attendance status, and level of student: Fall 2017 (optional)",Final,https://nces.ed.gov/ipeds/datacenter/data/EF2017B.zip
+2017,201718,Fall Enrollment,EF2017C,Residence and migration of first-time freshman: Fall 2017,Final,https://nces.ed.gov/ipeds/datacenter/data/EF2017C.zip
+2017,201718,Fall Enrollment,EF2017D,"Total entering class, retention rates, and student-to-faculty ratio: Fall 2017",Final,https://nces.ed.gov/ipeds/datacenter/data/EF2017D.zip
+2017,201718,Fall Enrollment,EF2017A_DIST,Distance education status and level of student: Fall 2017,Final,https://nces.ed.gov/ipeds/datacenter/data/EF2017A_DIST.zip
+2017,201718,Fall Enrollment,DRVEF2017,Frequently used derived variables (EF): Fall enrollment 2017,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVEF2017.zip
+2017,201718,Completions,C2017_A,"Awards/degrees conferred by program (6-digit CIP code), award level, race/ethnicity, and gender: July 1, 2016 to June 30, 2017",Final,https://nces.ed.gov/ipeds/datacenter/data/C2017_A.zip
+2017,201718,Completions,C2017_B,"Number of students receiving awards/degrees, by race/ethnicity and gender: July 1, 2016 to June 30, 2017",Final,https://nces.ed.gov/ipeds/datacenter/data/C2017_B.zip
+2017,201718,Completions,C2017_C,"Number of students receiving awards/degrees, by award level and by gender, race/ethnicity and age categories: July 1, 2016 to June 30, 2017",Final,https://nces.ed.gov/ipeds/datacenter/data/C2017_C.zip
+2017,201718,Completions,C2017DEP,"Number of programs offered and number of programs offered via distance education, by award level: July 1, 2016 to June 30, 2017",Final,https://nces.ed.gov/ipeds/datacenter/data/C2017DEP.zip
+2017,201718,Completions,DRVC2017,"Frequently used derived variables (C): Completions, July 1, 2016 to June 30, 2017",Final,https://nces.ed.gov/ipeds/datacenter/data/DRVC2017.zip
+2017,201718,Student Financial Aid,SFA1617_P1,Student financial aid: 2016-17,Final,https://nces.ed.gov/ipeds/datacenter/data/SFA1617_P1.zip
+2017,201718,Student Financial Aid,SFA1617_P2,Student financial aid and net price: 2016-17,Final,https://nces.ed.gov/ipeds/datacenter/data/SFA1617_P2.zip
+2017,201718,Student Financial Aid,SFAV1617,"Military Servicemembers and Veteran's Benefits, 2016-17",Final,https://nces.ed.gov/ipeds/datacenter/data/SFAV1617.zip
+2017,201718,Graduation Rates,GR2017,"Graduation rate data, 150% of normal time to complete - cohort year 2011 (4-year) and cohort year 2014 (2-year) institutions",Final,https://nces.ed.gov/ipeds/datacenter/data/GR2017.zip
+2017,201718,Graduation Rates,GR2017_L2,"Graduation rate data, 150% of normal time to complete - cohort year 2014 (less-than-2-year institutions)",Final,https://nces.ed.gov/ipeds/datacenter/data/GR2017_L2.zip
+2017,201718,Graduation Rates,GR2017_PELL_SSL,"Graduation rate data for Pell Grant and Subsidized Stafford loan recipients, 150% of normal time to complete - cohort year 2011 (4-year) and cohort year 2014 (2-year) institutions",Final,https://nces.ed.gov/ipeds/datacenter/data/GR2017_PELL_SSL.zip
+2017,201718,Graduation Rates,GR200_17,"Graduation rate data, 200% of normal time to complete - cohort year 2009  (4-year) and cohort year 2013 (less-than-4-year)  institutions",Final,https://nces.ed.gov/ipeds/datacenter/data/GR200_17.zip
+2017,201718,Graduation Rates,DRVGR2017,Frequently used derived variables (GR) 150% of normal time to complete - cohort year 2011 (4-year) and cohort year 2014 (2-year) institutions,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVGR2017.zip
+2017,201718,Outcome Measures,OM2017,Award and enrollment data at six and eight years for four entering undergraduate cohorts from 2009 - degree granting institutions,Final,https://nces.ed.gov/ipeds/datacenter/data/OM2017.zip
+2017,201718,Outcome Measures,DRVOM2017,"Frequently used derived variables (OM) Award and enrollment rates of degree/certificate-seeking undergraduates, 2009 cohort",Final,https://nces.ed.gov/ipeds/datacenter/data/DRVOM2017.zip
+2017,201718,Finance,F1617_F1A,Public institutions - GASB 34/35: Fiscal year 2017,Final,https://nces.ed.gov/ipeds/datacenter/data/F1617_F1A.zip
+2017,201718,Finance,F1617_F2,Private not-for-profit institutions or Public institutions using FASB: Fiscal year 2017,Final,https://nces.ed.gov/ipeds/datacenter/data/F1617_F2.zip
+2017,201718,Finance,F1617_F3,Private for-profit institutions: Fiscal year 2017,Final,https://nces.ed.gov/ipeds/datacenter/data/F1617_F3.zip
+2017,201718,Finance,DRVF2017,Frequently used/derived variables Finance (F): Fiscal year 2017,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVF2017.zip
+2017,201718,Human Resources,EAP2017,"Number of staff by occupational category, faculty and tenure status:  Fall 2017",Final,https://nces.ed.gov/ipeds/datacenter/data/EAP2017.zip
+2017,201718,Human Resources,SAL2017_IS,"Number and salary outlays for full-time nonmedical instructional staff, by  gender, and academic rank:  Academic year 2017-18",Final,https://nces.ed.gov/ipeds/datacenter/data/SAL2017_IS.zip
+2017,201718,Human Resources,SAL2017_NIS,Number and salary outlays for full-time nonmedical  noninstructional staff by occupation: Academic year 2017-18,Final,https://nces.ed.gov/ipeds/datacenter/data/SAL2017_NIS.zip
+2017,201718,Human Resources,S2017_OC,"Full- and part-time staff by occupational category, race/ethnicity, and gender:  Fall 2017",Final,https://nces.ed.gov/ipeds/datacenter/data/S2017_OC.zip
+2017,201718,Human Resources,S2017_SIS,"Full-time instructional staff, by academic rank, faculty and tenure status  (Degree-granting institutions): Fall 2017",Final,https://nces.ed.gov/ipeds/datacenter/data/S2017_SIS.zip
+2017,201718,Human Resources,S2017_IS,"Full-time instructional staff, by faculty and tenure status, academic rank, race/ethnicity, and gender (Degree-granting institutions): Fall 2017",Final,https://nces.ed.gov/ipeds/datacenter/data/S2017_IS.zip
+2017,201718,Human Resources,S2017_NH,"New hires by occupational category, race/ethnicity, and gender (Degree-granting institutions):  Fall 2017",Final,https://nces.ed.gov/ipeds/datacenter/data/S2017_NH.zip
+2017,201718,Human Resources,DRVHR2017,Frequently used/derived variables Human resources (HR): Fall 2017,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVHR2017.zip
+2017,201718,Academic Libraries,AL2017,"Academic Libraries, 2016-17",Final,https://nces.ed.gov/ipeds/datacenter/data/AL2017.zip
+2017,201718,Academic Libraries,DRVAL2017,Frequently used/derived variables Academic library indicators: Fiscal year 2017,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVAL2017.zip
+2018,201819,Institutional Characteristics,HD2018,Directory information,Provisional/final (institutions will not  be allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/HD2018.zip
+2018,201819,Institutional Characteristics,FLAGS2018,Response status for all survey components,Final,https://nces.ed.gov/ipeds/datacenter/data/FLAGS2018.zip
+2018,201819,Institutional Characteristics,IC2018,"Educational offerings, organization, admissions, services and athletic associations",Final,https://nces.ed.gov/ipeds/datacenter/data/IC2018.zip
+2018,201819,Institutional Characteristics,IC2018_AY,Student charges for academic year programs,Provisional/final (institutions will not  be allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/IC2018_AY.zip
+2018,201819,Institutional Characteristics,IC2018_PY,Student charges by program (vocational programs),Provisional/final (institutions will not  be allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/IC2018_PY.zip
+2018,201819,Institutional Characteristics,DRVIC2018,Frequently used derived variables (IC): Total cost of attendance,Provisional (institutions will not  be allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/DRVIC2018.zip
+2018,201819,Institutional Characteristics,IC2018MISSION,Mission statement,Provisional/final (institutions are not  allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/IC2018MISSION.zip
+2018,201819,Institutional Characteristics,CUSTOMCGIDS2018,Custom comparison groups,Provisional/final (institutions will not  be allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/CUSTOMCGIDS2018.zip
+2018,201819,Admissions,ADM2018,"Admission considerations, applicants, admissions, and test scores",Final,https://nces.ed.gov/ipeds/datacenter/data/ADM2018.zip
+2018,201819,Admissions,DRVADM2018,Frequently used derived variables for admissions. Selectivity and admissions yield,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVADM2018.zip
+2018,201819,12-month Enrollment,EFFY2018,12-month unduplicated headcount: 2017-18,Final,https://nces.ed.gov/ipeds/datacenter/data/EFFY2018.zip
+2018,201819,12-month Enrollment,EFIA2018,12-month instructional activity: 2017-18,Final,https://nces.ed.gov/ipeds/datacenter/data/EFIA2018.zip
+2018,201819,12-month Enrollment,DRVEF122018,"Frequently used derived variables (E12): 12-month enrollment, 2017-18",Final,https://nces.ed.gov/ipeds/datacenter/data/DRVEF122018.zip
+2018,201819,Fall Enrollment,EF2018,"Gender, attendance status, and level of student: Fall 2018",Final,https://nces.ed.gov/ipeds/datacenter/data/EF2018.zip
+2018,201819,Fall Enrollment,EF2018A,"Race/ethnicity, gender, attendance status, and level of student: Fall 2018",Final,https://nces.ed.gov/ipeds/datacenter/data/EF2018A.zip
+2018,201819,Fall Enrollment,EF2018CP,"Major field of study, race/ethnicity, gender, attendance status, and level of student: Fall 2018",Final,https://nces.ed.gov/ipeds/datacenter/data/EF2018CP.zip
+2018,201819,Fall Enrollment,EF2018B,"Age category, gender, attendance status, and level of student: Fall 2018 (optional)",Final,https://nces.ed.gov/ipeds/datacenter/data/EF2018B.zip
+2018,201819,Fall Enrollment,EF2018C,Residence and migration of first-time freshman: Fall 2018,Final,https://nces.ed.gov/ipeds/datacenter/data/EF2018C.zip
+2018,201819,Fall Enrollment,EF2018D,"Total entering class, retention rates, and student-to-faculty ratio: Fall 2018",Final,https://nces.ed.gov/ipeds/datacenter/data/EF2018D.zip
+2018,201819,Fall Enrollment,EF2018A_DIST,Distance education status and level of student: Fall 2018,Final,https://nces.ed.gov/ipeds/datacenter/data/EF2018A_DIST.zip
+2018,201819,Fall Enrollment,DRVEF2018,Frequently used derived variables (EF): Fall enrollment 2018,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVEF2018.zip
+2018,201819,Completions,C2018_A,"Awards/degrees conferred by program (6-digit CIP code), award level, race/ethnicity, and gender: July 1, 2017 to June 30, 2018",Final,https://nces.ed.gov/ipeds/datacenter/data/C2018_A.zip
+2018,201819,Completions,C2018_B,"Number of students receiving awards/degrees, by race/ethnicity and gender: July 1, 2017 to June 30, 2018",Final,https://nces.ed.gov/ipeds/datacenter/data/C2018_B.zip
+2018,201819,Completions,C2018_C,"Number of students receiving awards/degrees, by award level and by gender, race/ethnicity and age categories: July 1, 2017 to June 30, 2018",Final,https://nces.ed.gov/ipeds/datacenter/data/C2018_C.zip
+2018,201819,Completions,C2018DEP,"Number of programs offered and number of programs offered via distance education, by award level: July 1, 2017 to June 30, 2018",Final,https://nces.ed.gov/ipeds/datacenter/data/C2018DEP.zip
+2018,201819,Completions,DRVC2018,"Frequently used derived variables (C): Completions, July 1, 2017 to June 30, 2018",Final,https://nces.ed.gov/ipeds/datacenter/data/DRVC2018.zip
+2018,201819,Student Financial Aid,SFA1718_P1,Student financial aid: 2017-18,Final,https://nces.ed.gov/ipeds/datacenter/data/SFA1718_P1.zip
+2018,201819,Student Financial Aid,SFA1718_P2,Student financial aid and net price: 2017-18,Final,https://nces.ed.gov/ipeds/datacenter/data/SFA1718_P2.zip
+2018,201819,Student Financial Aid,SFAV1718,"Military Servicemembers and Veteran's Benefits, 2017-18",Final,https://nces.ed.gov/ipeds/datacenter/data/SFAV1718.zip
+2018,201819,Graduation Rates,GR2018,"Graduation rate data, 150% of normal time to complete - cohort year 2012 (4-year) and cohort year 2015 (2-year) institutions",Final,https://nces.ed.gov/ipeds/datacenter/data/GR2018.zip
+2018,201819,Graduation Rates,GR2018_L2,"Graduation rate data, 150% of normal time to complete - cohort year 2015 (less-than-2-year institutions)",Final,https://nces.ed.gov/ipeds/datacenter/data/GR2018_L2.zip
+2018,201819,Graduation Rates,GR2018_PELL_SSL,"Graduation rate data for Pell Grant and Subsidized Stafford loan recipients, 150% of normal time to complete - cohort year 2012 (4-year) and cohort year 2015 (2-year) institutions",Final,https://nces.ed.gov/ipeds/datacenter/data/GR2018_PELL_SSL.zip
+2018,201819,Graduation Rates,GR200_18,"Graduation rate data, 200% of normal time to complete - cohort year 2010  (4-year) and cohort year 2014 (less-than-4-year)  institutions",Final,https://nces.ed.gov/ipeds/datacenter/data/GR200_18.zip
+2018,201819,Graduation Rates,DRVGR2018,Frequently used derived variables (GR) 150% of normal time to complete - cohort year 2012 (4-year) and cohort year 2015 (2-year) institutions,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVGR2018.zip
+2018,201819,Outcome Measures,OM2018,"Award and enrollment data at four, six and eight years for four entering undergraduate cohorts from 2010-11, by Pell status in degree granting institutions",Final,https://nces.ed.gov/ipeds/datacenter/data/OM2018.zip
+2018,201819,Outcome Measures,DRVOM2018,"Frequently used derived variables (OM) Award and enrollment rates of degree/certificate-seeking undergraduates, 2010-11 cohort",Final,https://nces.ed.gov/ipeds/datacenter/data/DRVOM2018.zip
+2018,201819,Finance,F1718_F1A,Public institutions - GASB 34/35: Fiscal year 2018,Final,https://nces.ed.gov/ipeds/datacenter/data/F1718_F1A.zip
+2018,201819,Finance,F1718_F2,Private not-for-profit institutions or Public institutions using FASB: Fiscal year 2018,Final,https://nces.ed.gov/ipeds/datacenter/data/F1718_F2.zip
+2018,201819,Finance,F1718_F3,Private for-profit institutions: Fiscal year 2018,Final,https://nces.ed.gov/ipeds/datacenter/data/F1718_F3.zip
+2018,201819,Finance,DRVF2018,Frequently used/derived variables Finance (F): Fiscal year 2018,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVF2018.zip
+2018,201819,Human Resources,EAP2018,"Number of staff by occupational category, faculty and tenure status:  Fall 2018",Final,https://nces.ed.gov/ipeds/datacenter/data/EAP2018.zip
+2018,201819,Human Resources,SAL2018_IS,"Number and salary outlays for full-time nonmedical instructional staff, by  gender, and academic rank:  Academic year 2018-19",Final,https://nces.ed.gov/ipeds/datacenter/data/SAL2018_IS.zip
+2018,201819,Human Resources,SAL2018_NIS,Number and salary outlays for full-time nonmedical  noninstructional staff by occupation: Academic year 2018-19,Final,https://nces.ed.gov/ipeds/datacenter/data/SAL2018_NIS.zip
+2018,201819,Human Resources,S2018_OC,"Full- and part-time staff by occupational category, race/ethnicity, and gender:  Fall 2018",Final,https://nces.ed.gov/ipeds/datacenter/data/S2018_OC.zip
+2018,201819,Human Resources,S2018_SIS,"Full-time instructional staff, by academic rank, faculty and tenure status  (Degree-granting institutions): Fall 2018",Final,https://nces.ed.gov/ipeds/datacenter/data/S2018_SIS.zip
+2018,201819,Human Resources,S2018_IS,"Full-time instructional staff, by faculty and tenure status, academic rank, race/ethnicity, and gender (Degree-granting institutions): Fall 2018",Final,https://nces.ed.gov/ipeds/datacenter/data/S2018_IS.zip
+2018,201819,Human Resources,S2018_NH,"New hires by occupational category, race/ethnicity, and gender (Degree-granting institutions):  Fall 2018",Final,https://nces.ed.gov/ipeds/datacenter/data/S2018_NH.zip
+2018,201819,Human Resources,DRVHR2018,Frequently used/derived variables Human resources (HR): Fall 2018,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVHR2018.zip
+2018,201819,Academic Libraries,AL2018,"Academic Libraries, Fiscal year 2018",Final,https://nces.ed.gov/ipeds/datacenter/data/AL2018.zip
+2018,201819,Academic Libraries,DRVAL2018,Frequently used/derived variables Academic library indicators: Fiscal year 2018,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVAL2018.zip
+2019,201920,Institutional Characteristics,HD2019,Directory information,Provisional/final (institutions are not  allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/HD2019.zip
+2019,201920,Institutional Characteristics,FLAGS2019,Response status for all survey components,Provisional,https://nces.ed.gov/ipeds/datacenter/data/FLAGS2019.zip
+2019,201920,Institutional Characteristics,IC2019,"Educational offerings, organization, admissions, services and athletic associations",Final,https://nces.ed.gov/ipeds/datacenter/data/IC2019.zip
+2019,201920,Institutional Characteristics,IC2019_AY,Student charges for academic year programs,Provisional/final (institutions are not  allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/IC2019_AY.zip
+2019,201920,Institutional Characteristics,IC2019_PY,Student charges by program (vocational programs),Provisional/final (institutions are not  allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/IC2019_PY.zip
+2019,201920,Institutional Characteristics,DRVIC2019,Frequently used derived variables (IC): Total cost of attendance,Provisional/final (institutions are not  allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/DRVIC2019.zip
+2019,201920,Institutional Characteristics,IC2019MISSION,Mission statement,Provisional/final (institutions are not  allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/IC2019MISSION.zip
+2019,201920,Institutional Characteristics,CUSTOMCGIDS2019,Custom comparison groups,Provisional/final (institutions are not  allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/CUSTOMCGIDS2019.zip
+2019,201920,Admissions,ADM2019,"Admission considerations, applicants, admissions, and test scores",Final,https://nces.ed.gov/ipeds/datacenter/data/ADM2019.zip
+2019,201920,Admissions,DRVADM2019,Frequently used derived variables for admissions. Selectivity and admissions yield,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVADM2019.zip
+2019,201920,12-month Enrollment,EFFY2019,12-month unduplicated headcount: 2018-19,Final,https://nces.ed.gov/ipeds/datacenter/data/EFFY2019.zip
+2019,201920,12-month Enrollment,EFIA2019,12-month instructional activity: 2018-19,Final,https://nces.ed.gov/ipeds/datacenter/data/EFIA2019.zip
+2019,201920,12-month Enrollment,DRVEF122019,"Frequently used derived variables (E12): 12-month enrollment, 2018-19",Final,https://nces.ed.gov/ipeds/datacenter/data/DRVEF122019.zip
+2019,201920,Fall Enrollment,EF2019,"Gender, attendance status, and level of student: Fall 2019",Final,https://nces.ed.gov/ipeds/datacenter/data/EF2019.zip
+2019,201920,Fall Enrollment,EF2019A,"Race/ethnicity, gender, attendance status, and level of student: Fall 2019",Final,https://nces.ed.gov/ipeds/datacenter/data/EF2019A.zip
+2019,201920,Fall Enrollment,EF2019B,"Age category, gender, attendance status, and level of student: Fall 2019 (optional)",Final,https://nces.ed.gov/ipeds/datacenter/data/EF2019B.zip
+2019,201920,Fall Enrollment,EF2019C,Residence and migration of first-time freshman: Fall 2019,Final,https://nces.ed.gov/ipeds/datacenter/data/EF2019C.zip
+2019,201920,Fall Enrollment,EF2019D,"Total entering class, retention rates, and student-to-faculty ratio: Fall 2019",Final,https://nces.ed.gov/ipeds/datacenter/data/EF2019D.zip
+2019,201920,Fall Enrollment,EF2019A_DIST,Distance education status and level of student: Fall 2019,Final,https://nces.ed.gov/ipeds/datacenter/data/EF2019A_DIST.zip
+2019,201920,Fall Enrollment,DRVEF2019,Frequently used derived variables (EF): Fall enrollment 2019,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVEF2019.zip
+2019,201920,Completions,DRVC2019,"Frequently used derived variables (C): Completions, July 1, 2018 to June 30, 2019",Final,https://nces.ed.gov/ipeds/datacenter/data/DRVC2019.zip
+2019,201920,Completions,C2019_A,"Awards/degrees conferred by program (6-digit CIP code), award level, race/ethnicity, and gender: July 1, 2018 to June 30, 2019",Final,https://nces.ed.gov/ipeds/datacenter/data/C2019_A.zip
+2019,201920,Completions,C2019_B,"Number of students receiving awards/degrees, by race/ethnicity and gender: July 1, 2018 to June 30, 2019",Final,https://nces.ed.gov/ipeds/datacenter/data/C2019_B.zip
+2019,201920,Completions,C2019_C,"Number of students receiving awards/degrees, by award level and by gender, race/ethnicity and age categories: July 1, 2018 to June 30, 2019",Final,https://nces.ed.gov/ipeds/datacenter/data/C2019_C.zip
+2019,201920,Completions,C2019DEP,"Number of programs offered and number of programs offered via distance education, by award level: July 1, 2018 to June 30, 2019",Final,https://nces.ed.gov/ipeds/datacenter/data/C2019DEP.zip
+2019,201920,Student Financial Aid,SFA1819_P1,Student financial aid: 2018-19,Final,https://nces.ed.gov/ipeds/datacenter/data/SFA1819_P1.zip
+2019,201920,Student Financial Aid,SFA1819_P2,Student financial aid and net price: 2018-19,Final,https://nces.ed.gov/ipeds/datacenter/data/SFA1819_P2.zip
+2019,201920,Student Financial Aid,SFAV1819,"Military Servicemembers and Veteran's Benefits, 2018-19",Final,https://nces.ed.gov/ipeds/datacenter/data/SFAV1819.zip
+2019,201920,Graduation Rates,GR2019,"Graduation rate data, 150% of normal time to complete - cohort year 2013 (4-year) and cohort year 2016 (2-year) institutions",Final,https://nces.ed.gov/ipeds/datacenter/data/GR2019.zip
+2019,201920,Graduation Rates,GR2019_L2,"Graduation rate data, 150% of normal time to complete - cohort year 2016 (less-than-2-year institutions)",Final,https://nces.ed.gov/ipeds/datacenter/data/GR2019_L2.zip
+2019,201920,Graduation Rates,GR2019_PELL_SSL,"Graduation rate data for Pell Grant and Subsidized Stafford loan recipients, 150% of normal time to complete - cohort year 2013 (4-year) and cohort year 2016 (2-year) institutions",Final,https://nces.ed.gov/ipeds/datacenter/data/GR2019_PELL_SSL.zip
+2019,201920,Graduation Rates,GR200_19,"Graduation rate data, 200% of normal time to complete - cohort year 2011  (4-year) and cohort year 2015 (less-than-4-year)  institutions",Final,https://nces.ed.gov/ipeds/datacenter/data/GR200_19.zip
+2019,201920,Graduation Rates,DRVGR2019,Frequently used derived variables (GR) 150% of normal time to complete - cohort year 2013 (4-year) and cohort year 2016 (2-year) institutions,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVGR2019.zip
+2019,201920,Outcome Measures,OM2019,Award and enrollment data at six and eight years for four entering undergraduate cohorts from 2011 - degree granting institutions,Final,https://nces.ed.gov/ipeds/datacenter/data/OM2019.zip
+2019,201920,Outcome Measures,DRVOM2019,"Frequently used derived variables (OM) Award and enrollment rates of degree/certificate-seeking undergraduates, 2011-12 cohort",Final,https://nces.ed.gov/ipeds/datacenter/data/DRVOM2019.zip
+2019,201920,Finance,F1819_F1A,Public institutions - GASB 34/35: Fiscal year 2019,Final,https://nces.ed.gov/ipeds/datacenter/data/F1819_F1A.zip
+2019,201920,Finance,F1819_F2,Private not-for-profit institutions or Public institutions using FASB: Fiscal year 2019,Final,https://nces.ed.gov/ipeds/datacenter/data/F1819_F2.zip
+2019,201920,Finance,F1819_F3,Private for-profit institutions: Fiscal year 2019,Final,https://nces.ed.gov/ipeds/datacenter/data/F1819_F3.zip
+2019,201920,Finance,DRVF2019,Frequently used/derived variables Finance (F): Fiscal year 2019,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVF2019.zip
+2019,201920,Human Resources,SAL2019_NIS,Number and salary outlays for full-time nonmedical  noninstructional staff by occupation: Academic year 2019-20,Final,https://nces.ed.gov/ipeds/datacenter/data/SAL2019_NIS.zip
+2019,201920,Human Resources,EAP2019,"Number of staff by occupational category, faculty and tenure status:  Fall 2019",Final,https://nces.ed.gov/ipeds/datacenter/data/EAP2019.zip
+2019,201920,Human Resources,SAL2019_IS,"Number and salary outlays for full-time nonmedical instructional staff, by  gender, and academic rank:  Academic year 2019-20",Final,https://nces.ed.gov/ipeds/datacenter/data/SAL2019_IS.zip
+2019,201920,Human Resources,S2019_OC,"Full- and part-time staff by occupational category, race/ethnicity, and gender:  Fall 2019",Final,https://nces.ed.gov/ipeds/datacenter/data/S2019_OC.zip
+2019,201920,Human Resources,S2019_SIS,"Full-time instructional staff, by academic rank, faculty and tenure status  (Degree-granting institutions): Fall 2019",Final,https://nces.ed.gov/ipeds/datacenter/data/S2019_SIS.zip
+2019,201920,Human Resources,S2019_IS,"Full-time instructional staff, by faculty and tenure status, academic rank, race/ethnicity, and gender (Degree-granting institutions): Fall 2019",Final,https://nces.ed.gov/ipeds/datacenter/data/S2019_IS.zip
+2019,201920,Human Resources,S2019_NH,"New hires by occupational category, race/ethnicity, and gender (Degree-granting institutions):  Fall 2019",Final,https://nces.ed.gov/ipeds/datacenter/data/S2019_NH.zip
+2019,201920,Human Resources,DRVHR2019,Frequently used/derived variables Human resources (HR): Fall 2019,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVHR2019.zip
+2019,201920,Academic Libraries,AL2019,"Academic Libraries, Fiscal year 2019",Final,https://nces.ed.gov/ipeds/datacenter/data/AL2019.zip
+2019,201920,Academic Libraries,DRVAL2019,Frequently used/derived variables Academic library indicators: Fiscal year 2019,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVAL2019.zip
+2020,202021,Institutional Characteristics,HD2020,Directory information,Provisional/final (institutions are not  allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/HD2020.zip
+2020,202021,Institutional Characteristics,FLAGS2020,Response status for all survey components,Final,https://nces.ed.gov/ipeds/datacenter/data/FLAGS2020.zip
+2020,202021,Institutional Characteristics,IC2020,"Educational offerings, organization, admissions, services and athletic associations",Final,https://nces.ed.gov/ipeds/datacenter/data/IC2020.zip
+2020,202021,Institutional Characteristics,IC2020_AY,Student charges for academic year programs,Provisional/final (institutions are not  allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/IC2020_AY.zip
+2020,202021,Institutional Characteristics,IC2020_PY,Student charges by program (vocational programs),Provisional/final (institutions are not  allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/IC2020_PY.zip
+2020,202021,Institutional Characteristics,DRVIC2020,Frequently used derived variables (IC): Total cost of attendance,Provisional/final (institutions are not  allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/DRVIC2020.zip
+2020,202021,Institutional Characteristics,IC2020MISSION,Mission statement,Provisional/final (institutions are not  allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/IC2020MISSION.zip
+2020,202021,Institutional Characteristics,CUSTOMCGIDS2020,Custom comparison groups,Provisional/final (institutions are not  allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/CUSTOMCGIDS2020.zip
+2020,202021,Admissions,ADM2020,"Admission considerations, applicants, admissions, and test scores",Final,https://nces.ed.gov/ipeds/datacenter/data/ADM2020.zip
+2020,202021,Admissions,DRVADM2020,Frequently used derived variables for admissions. Selectivity and admissions yield,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVADM2020.zip
+2020,202021,12-month Enrollment,EFFY2020,12-month unduplicated headcount: 2019-20,Final,https://nces.ed.gov/ipeds/datacenter/data/EFFY2020.zip
+2020,202021,12-month Enrollment,EFIA2020,12-month instructional activity: 2019-20,Final,https://nces.ed.gov/ipeds/datacenter/data/EFIA2020.zip
+2020,202021,12-month Enrollment,EFFY2020_DIST,12-month unduplicated headcount by distance education status and level of student: 2019-20,Final,https://nces.ed.gov/ipeds/datacenter/data/EFFY2020_DIST.zip
+2020,202021,12-month Enrollment,DRVEF122020,"Frequently used derived variables (E12): 12-month enrollment, 2019-20",Final,https://nces.ed.gov/ipeds/datacenter/data/DRVEF122020.zip
+2020,202021,Fall Enrollment,EF2020,"Gender, attendance status, and level of student: Fall 2020",Final,https://nces.ed.gov/ipeds/datacenter/data/EF2020.zip
+2020,202021,Fall Enrollment,EF2020A,"Race/ethnicity, gender, attendance status, and level of student: Fall 2020",Final,https://nces.ed.gov/ipeds/datacenter/data/EF2020A.zip
+2020,202021,Fall Enrollment,EF2020CP,"Major field of study, race/ethnicity, gender, attendance status, and level of student: Fall 2020",Final,https://nces.ed.gov/ipeds/datacenter/data/EF2020CP.zip
+2020,202021,Fall Enrollment,EF2020B,"Age category, gender, attendance status, and level of student: Fall 2020 (optional)",Final,https://nces.ed.gov/ipeds/datacenter/data/EF2020B.zip
+2020,202021,Fall Enrollment,EF2020C,Residence and migration of first-time freshman: Fall 2020,Final,https://nces.ed.gov/ipeds/datacenter/data/EF2020C.zip
+2020,202021,Fall Enrollment,EF2020D,"Total entering class, retention rates, and student-to-faculty ratio: Fall 2020",Final,https://nces.ed.gov/ipeds/datacenter/data/EF2020D.zip
+2020,202021,Fall Enrollment,EF2020A_DIST,Distance education status and level of student: Fall 2020,Final,https://nces.ed.gov/ipeds/datacenter/data/EF2020A_DIST.zip
+2020,202021,Fall Enrollment,DRVEF2020,Frequently used derived variables (EF): Fall enrollment 2020,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVEF2020.zip
+2020,202021,Completions,DRVC2020,"Frequently used derived variables (C): Completions, July 1, 2019 to June 30, 2020",Final,https://nces.ed.gov/ipeds/datacenter/data/DRVC2020.zip
+2020,202021,Completions,C2020_A,"Awards/degrees conferred by program (6-digit CIP code), award level, race/ethnicity, and gender: July 1, 2019 to June 30, 2020",Final,https://nces.ed.gov/ipeds/datacenter/data/C2020_A.zip
+2020,202021,Completions,C2020_B,"Number of students receiving awards/degrees, by race/ethnicity and gender: July 1, 2019 to June 30, 2020",Final,https://nces.ed.gov/ipeds/datacenter/data/C2020_B.zip
+2020,202021,Completions,C2020_C,"Number of students receiving awards/degrees, by award level and by gender, race/ethnicity and age categories: July 1, 2019 to June 30, 2020",Final,https://nces.ed.gov/ipeds/datacenter/data/C2020_C.zip
+2020,202021,Completions,C2020DEP,"Number of programs offered and number of programs offered via distance education, by award level: July 1, 2019 to June 30, 2020",Final,https://nces.ed.gov/ipeds/datacenter/data/C2020DEP.zip
+2020,202021,Student Financial Aid,SFA1920_P1,Student financial aid: 2019-20,Final,https://nces.ed.gov/ipeds/datacenter/data/SFA1920_P1.zip
+2020,202021,Student Financial Aid,SFA1920_P2,Student financial aid and net price: 2019-20,Final,https://nces.ed.gov/ipeds/datacenter/data/SFA1920_P2.zip
+2020,202021,Student Financial Aid,SFAV1920,"Military Servicemembers and Veteran's Benefits, 2019-20",Final,https://nces.ed.gov/ipeds/datacenter/data/SFAV1920.zip
+2020,202021,Graduation Rates,GR2020,"Graduation rate data, 150% of normal time to complete - cohort year 2014 (4-year) and cohort year 2017 (2-year) institutions",Final,https://nces.ed.gov/ipeds/datacenter/data/GR2020.zip
+2020,202021,Graduation Rates,GR2020_L2,"Graduation rate data, 150% of normal time to complete - cohort year 2017 (less-than-2-year institutions)",Final,https://nces.ed.gov/ipeds/datacenter/data/GR2020_L2.zip
+2020,202021,Graduation Rates,GR2020_PELL_SSL,"Graduation rate data for Pell Grant and Subsidized Stafford loan recipients, 150% of normal time to complete - cohort year 2014 (4-year) and cohort year 2017 (2-year) institutions",Final,https://nces.ed.gov/ipeds/datacenter/data/GR2020_PELL_SSL.zip
+2020,202021,Graduation Rates,GR200_20,"Graduation rate data, 200% of normal time to complete - cohort year 2012  (4-year) and cohort year 2016 (less-than-4-year)  institutions",Final,https://nces.ed.gov/ipeds/datacenter/data/GR200_20.zip
+2020,202021,Graduation Rates,DRVGR2020,Frequently used derived variables (GR) 150% of normal time to complete - cohort year 2014 (4-year) and cohort year 2017 (2-year) institutions,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVGR2020.zip
+2020,202021,Outcome Measures,OM2020,Award and enrollment data at six and eight years for  entering undergraduate cohorts from 2012-13 degree granting institutions,Final,https://nces.ed.gov/ipeds/datacenter/data/OM2020.zip
+2020,202021,Outcome Measures,DRVOM2020,"Frequently used derived variables (OM) Award and enrollment rates of degree/certificate-seeking undergraduates, 2012-13 cohort",Final,https://nces.ed.gov/ipeds/datacenter/data/DRVOM2020.zip
+2020,202021,Finance,F1920_F1A,Public institutions - GASB 34/35: Fiscal year 2020,Final,https://nces.ed.gov/ipeds/datacenter/data/F1920_F1A.zip
+2020,202021,Finance,F1920_F2,Private not-for-profit institutions or Public institutions using FASB: Fiscal year 2020,Final,https://nces.ed.gov/ipeds/datacenter/data/F1920_F2.zip
+2020,202021,Finance,F1920_F3,Private for-profit institutions: Fiscal year 2020,Final,https://nces.ed.gov/ipeds/datacenter/data/F1920_F3.zip
+2020,202021,Finance,DRVF2020,Frequently used/derived variables Finance (F): Fiscal year 2020,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVF2020.zip
+2020,202021,Human Resources,SAL2020_NIS,Number and salary outlays for full-time nonmedical  noninstructional staff by occupation: Academic year 2020-21,Final,https://nces.ed.gov/ipeds/datacenter/data/SAL2020_NIS.zip
+2020,202021,Human Resources,EAP2020,"Number of staff by occupational category, faculty and tenure status:  Fall 2020",Final,https://nces.ed.gov/ipeds/datacenter/data/EAP2020.zip
+2020,202021,Human Resources,SAL2020_IS,"Number and salary outlays for full-time nonmedical instructional staff, by  gender, and academic rank:  Academic year 2020-21",Final,https://nces.ed.gov/ipeds/datacenter/data/SAL2020_IS.zip
+2020,202021,Human Resources,S2020_OC,"Full- and part-time staff by occupational category, race/ethnicity, and gender:  Fall 2020",Final,https://nces.ed.gov/ipeds/datacenter/data/S2020_OC.zip
+2020,202021,Human Resources,S2020_SIS,"Full-time instructional staff, by academic rank, faculty and tenure status  (Degree-granting institutions): Fall 2020",Final,https://nces.ed.gov/ipeds/datacenter/data/S2020_SIS.zip
+2020,202021,Human Resources,S2020_IS,"Full-time instructional staff, by faculty and tenure status, academic rank, race/ethnicity, and gender (Degree-granting institutions): Fall 2020",Final,https://nces.ed.gov/ipeds/datacenter/data/S2020_IS.zip
+2020,202021,Human Resources,S2020_NH,"New hires by occupational category, race/ethnicity, and gender (Degree-granting institutions):  Fall 2020",Final,https://nces.ed.gov/ipeds/datacenter/data/S2020_NH.zip
+2020,202021,Human Resources,DRVHR2020,Frequently used/derived variables Human resources (HR): Fall 2020,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVHR2020.zip
+2020,202021,Academic Libraries,AL2020,"Academic Libraries, Fiscal year 2020",Final,https://nces.ed.gov/ipeds/datacenter/data/AL2020.zip
+2020,202021,Academic Libraries,DRVAL2020,Frequently used/derived variables Academic library indicators: Fiscal year 2020,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVAL2020.zip
+2021,202122,Institutional Characteristics,HD2021,Directory information,Provisional/final (institutions are not  allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/HD2021.zip
+2021,202122,Institutional Characteristics,FLAGS2021,Response status for all survey components,Final,https://nces.ed.gov/ipeds/datacenter/data/FLAGS2021.zip
+2021,202122,Institutional Characteristics,IC2021,"Educational offerings, organization, admissions, services and athletic associations",Final,https://nces.ed.gov/ipeds/datacenter/data/IC2021.zip
+2021,202122,Institutional Characteristics,IC2021_AY,Student charges for academic year programs,Provisional/final (institutions are not  allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/IC2021_AY.zip
+2021,202122,Institutional Characteristics,IC2021_PY,Student charges by program (vocational programs),Provisional/final (institutions are not  allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/IC2021_PY.zip
+2021,202122,Institutional Characteristics,DRVIC2021,Frequently used derived variables (IC): Total cost of attendance,Provisional/final (institutions are not  allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/DRVIC2021.zip
+2021,202122,Institutional Characteristics,IC2021MISSION,Mission statement,Provisional/final (institutions are not  allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/IC2021MISSION.zip
+2021,202122,Institutional Characteristics,CUSTOMCGIDS2021,Custom comparison groups,Provisional/final (institutions are not  allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/CUSTOMCGIDS2021.zip
+2021,202122,Institutional Characteristics,IC2021_PCCAMPUSES,Branch campus locations listed on College Navigator,Provisional/final (institutions are not  allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/IC2021_PCCAMPUSES.zip
+2021,202122,Admissions,ADM2021,"Admission considerations, applicants, admissions, and test scores",Final,https://nces.ed.gov/ipeds/datacenter/data/ADM2021.zip
+2021,202122,Admissions,DRVADM2021,Frequently used derived variables for admissions. Selectivity and admissions yield,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVADM2021.zip
+2021,202122,12-month Enrollment,EFFY2021,12-month unduplicated headcount: 2020-21,Final,https://nces.ed.gov/ipeds/datacenter/data/EFFY2021.zip
+2021,202122,12-month Enrollment,EFIA2021,12-month instructional activity: 2020-21,Final,https://nces.ed.gov/ipeds/datacenter/data/EFIA2021.zip
+2021,202122,12-month Enrollment,EFFY2021_DIST,12-month unduplicated headcount by distance education status and level of student: 2020-21,Final,https://nces.ed.gov/ipeds/datacenter/data/EFFY2021_DIST.zip
+2021,202122,12-month Enrollment,DRVEF122021,"Frequently used derived variables (E12): 12-month enrollment, 2020-21",Final,https://nces.ed.gov/ipeds/datacenter/data/DRVEF122021.zip
+2021,202122,Fall Enrollment,EF2021,"Gender, attendance status, and level of student: Fall 2021",Final,https://nces.ed.gov/ipeds/datacenter/data/EF2021.zip
+2021,202122,Fall Enrollment,EF2021A,"Race/ethnicity, gender, attendance status, and level of student: Fall 2021",Final,https://nces.ed.gov/ipeds/datacenter/data/EF2021A.zip
+2021,202122,Fall Enrollment,EFxxxxCP,"Major field of study, race/ethnicity, gender, attendance status, and level of student: Fall xxxx",NA,https://nces.ed.gov/ipeds/datacenter/data/EFxxxxCP.zip
+2021,202122,Fall Enrollment,EF2021B,"Age category, gender, attendance status, and level of student: Fall 2021 (optional)",Final,https://nces.ed.gov/ipeds/datacenter/data/EF2021B.zip
+2021,202122,Fall Enrollment,EF2021C,Residence and migration of first-time freshman: Fall 2021,Final,https://nces.ed.gov/ipeds/datacenter/data/EF2021C.zip
+2021,202122,Fall Enrollment,EF2021D,"Total entering class, retention rates, and student-to-faculty ratio: Fall 2021",Final,https://nces.ed.gov/ipeds/datacenter/data/EF2021D.zip
+2021,202122,Fall Enrollment,EF2021A_DIST,Distance education status and level of student: Fall 2021,Final,https://nces.ed.gov/ipeds/datacenter/data/EF2021A_DIST.zip
+2021,202122,Fall Enrollment,DRVEF2021,Frequently used derived variables (EF): Fall enrollment 2021,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVEF2021.zip
+2021,202122,Completions,DRVC2021,"Frequently used derived variables (C): Completions, July 1, 2020 to June 30, 2021",Final,https://nces.ed.gov/ipeds/datacenter/data/DRVC2021.zip
+2021,202122,Completions,C2021_A,"Awards/degrees conferred by program (6-digit CIP code), award level, race/ethnicity, and gender: July 1, 2020 to June 30, 2021",Final,https://nces.ed.gov/ipeds/datacenter/data/C2021_A.zip
+2021,202122,Completions,C2021_B,"Number of students receiving awards/degrees, by race/ethnicity and gender: July 1, 2020 to June 30, 2021",Final,https://nces.ed.gov/ipeds/datacenter/data/C2021_B.zip
+2021,202122,Completions,C2021_C,"Number of students receiving awards/degrees, by award level and by gender, race/ethnicity and age categories: July 1, 2020 to June 30, 2021",Final,https://nces.ed.gov/ipeds/datacenter/data/C2021_C.zip
+2021,202122,Completions,C2021DEP,"Number of programs offered and number of programs offered via distance education, by award level: July 1, 2020 to June 30, 2021",Final,https://nces.ed.gov/ipeds/datacenter/data/C2021DEP.zip
+2021,202122,Student Financial Aid,SFA2021_P1,Student financial aid: 2020-21,Final,https://nces.ed.gov/ipeds/datacenter/data/SFA2021_P1.zip
+2021,202122,Student Financial Aid,SFA2021_P2,Student financial aid and net price: 2020-21,Final,https://nces.ed.gov/ipeds/datacenter/data/SFA2021_P2.zip
+2021,202122,Student Financial Aid,SFAV2021,"Military Servicemembers and Veteran's Benefits, 2020-21",Final,https://nces.ed.gov/ipeds/datacenter/data/SFAV2021.zip
+2021,202122,Graduation Rates,GR2021,"Graduation rate data, 150% of normal time to complete - cohort year 2015 (4-year) and cohort year 2018 (2-year) institutions",Final,https://nces.ed.gov/ipeds/datacenter/data/GR2021.zip
+2021,202122,Graduation Rates,GR2021_L2,"Graduation rate data, 150% of normal time to complete - cohort year 2018 (less-than-2-year institutions)",Final,https://nces.ed.gov/ipeds/datacenter/data/GR2021_L2.zip
+2021,202122,Graduation Rates,GR2021_PELL_SSL,"Graduation rate data for Pell Grant and Subsidized Stafford loan recipients, 150% of normal time to complete - cohort year 2015 (4-year) and cohort year 2018 (2-year) institutions",Final,https://nces.ed.gov/ipeds/datacenter/data/GR2021_PELL_SSL.zip
+2021,202122,Graduation Rates,GR200_21,"Graduation rate data, 200% of normal time to complete - cohort year 2013  (4-year) and cohort year 2017 (less-than-4-year)  institutions",Final,https://nces.ed.gov/ipeds/datacenter/data/GR200_21.zip
+2021,202122,Graduation Rates,DRVGR2021,Frequently used derived variables (GR) 150% of normal time to complete - cohort year 2015 (4-year) and cohort year 2018 (2-year) institutions,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVGR2021.zip
+2021,202122,Outcome Measures,OM2021,Award and enrollment data at six and eight years for  entering undergraduate cohorts from 2013-14 degree granting institutions,Final,https://nces.ed.gov/ipeds/datacenter/data/OM2021.zip
+2021,202122,Outcome Measures,DRVOM2021,"Frequently used derived variables (OM) Award and enrollment rates of degree/certificate-seeking undergraduates, 2013-14 cohort",Final,https://nces.ed.gov/ipeds/datacenter/data/DRVOM2021.zip
+2021,202122,Finance,F2021_F1A,Public institutions - GASB 34/35: Fiscal year 2021,Final,https://nces.ed.gov/ipeds/datacenter/data/F2021_F1A.zip
+2021,202122,Finance,F2021_F2,Private not-for-profit institutions or Public institutions using FASB: Fiscal year 2021,Final,https://nces.ed.gov/ipeds/datacenter/data/F2021_F2.zip
+2021,202122,Finance,F2021_F3,Private for-profit institutions: Fiscal year 2021,Final,https://nces.ed.gov/ipeds/datacenter/data/F2021_F3.zip
+2021,202122,Finance,DRVF2021,Frequently used/derived variables Finance (F): Fiscal year 2021,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVF2021.zip
+2021,202122,Human Resources,SAL2021_NIS,Number and salary outlays for full-time nonmedical  noninstructional staff by occupation: Academic year 2021-22,Final,https://nces.ed.gov/ipeds/datacenter/data/SAL2021_NIS.zip
+2021,202122,Human Resources,EAP2021,"Number of staff by occupational category, faculty and tenure status:  Fall 2021",Final,https://nces.ed.gov/ipeds/datacenter/data/EAP2021.zip
+2021,202122,Human Resources,SAL2021_IS,"Number and salary outlays for full-time nonmedical instructional staff, by  gender, and academic rank:  Academic year 2021-22",Final,https://nces.ed.gov/ipeds/datacenter/data/SAL2021_IS.zip
+2021,202122,Human Resources,S2021_OC,"Full- and part-time staff by occupational category, race/ethnicity, and gender:  Fall 2021",Final,https://nces.ed.gov/ipeds/datacenter/data/S2021_OC.zip
+2021,202122,Human Resources,S2021_SIS,"Full-time instructional staff, by academic rank, faculty and tenure status  (Degree-granting institutions): Fall 2021",Final,https://nces.ed.gov/ipeds/datacenter/data/S2021_SIS.zip
+2021,202122,Human Resources,S2021_IS,"Full-time instructional staff, by faculty and tenure status, academic rank, race/ethnicity, and gender (Degree-granting institutions): Fall 2021",Final,https://nces.ed.gov/ipeds/datacenter/data/S2021_IS.zip
+2021,202122,Human Resources,S2021_NH,"New hires by occupational category, race/ethnicity, and gender (Degree-granting institutions):  Fall 2021",Final,https://nces.ed.gov/ipeds/datacenter/data/S2021_NH.zip
+2021,202122,Human Resources,DRVHR2021,Frequently used/derived variables Human resources (HR): Fall 2021,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVHR2021.zip
+2021,202122,Academic Libraries,AL2021,"Academic Libraries, Fiscal year 2021",Final,https://nces.ed.gov/ipeds/datacenter/data/AL2021.zip
+2021,202122,Academic Libraries,DRVAL2021,Frequently used/derived variables Academic library indicators: Fiscal year 2021,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVAL2021.zip
+2022,202223,Institutional Characteristics,HD2022,Directory information,Provisional/final (institutions are not  allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/HD2022.zip
+2022,202223,Institutional Characteristics,FLAGS2022,Response status for all survey components,Final,https://nces.ed.gov/ipeds/datacenter/data/FLAGS2022.zip
+2022,202223,Institutional Characteristics,IC2022,"Educational offerings, organization, admissions, services and athletic associations",Final,https://nces.ed.gov/ipeds/datacenter/data/IC2022.zip
+2022,202223,Institutional Characteristics,IC2022_AY,Student charges for academic year programs,Provisional/final (institutions are not  allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/IC2022_AY.zip
+2022,202223,Institutional Characteristics,IC2022_PY,Student charges by program (vocational programs),Provisional/final (institutions are not  allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/IC2022_PY.zip
+2022,202223,Institutional Characteristics,DRVIC2022,Frequently used derived variables (IC): Total cost of attendance,Provisional/final (institutions are not  allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/DRVIC2022.zip
+2022,202223,Institutional Characteristics,IC2022MISSION,Mission statement,Provisional/final (institutions are not  allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/IC2022MISSION.zip
+2022,202223,Institutional Characteristics,CUSTOMCGIDS2022,Custom comparison groups,Provisional/final (institutions are not  allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/CUSTOMCGIDS2022.zip
+2022,202223,Institutional Characteristics,IC2022_PCCAMPUSES,Branch campus locations listed on College Navigator,Provisional/final (institutions are not  allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/IC2022_PCCAMPUSES.zip
+2022,202223,Admissions,ADM2022,"Admission considerations, applicants, admissions, and test scores",Final,https://nces.ed.gov/ipeds/datacenter/data/ADM2022.zip
+2022,202223,Admissions,DRVADM2022,Frequently used derived variables for admissions. Selectivity and admissions yield,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVADM2022.zip
+2022,202223,12-month Enrollment,EFFY2022,12-month unduplicated headcount: 2021-22,Final,https://nces.ed.gov/ipeds/datacenter/data/EFFY2022.zip
+2022,202223,12-month Enrollment,EFIA2022,12-month instructional activity: 2021-22,Final,https://nces.ed.gov/ipeds/datacenter/data/EFIA2022.zip
+2022,202223,12-month Enrollment,EFFY2022_DIST,12-month unduplicated headcount by distance education status and level of student: 2021-22,Final,https://nces.ed.gov/ipeds/datacenter/data/EFFY2022_DIST.zip
+2022,202223,12-month Enrollment,DRVEF122022,"Frequently used derived variables (E12): 12-month enrollment, 2021-22",Final,https://nces.ed.gov/ipeds/datacenter/data/DRVEF122022.zip
+2022,202223,Fall Enrollment,EF2022,"Gender, attendance status, and level of student: Fall 2022",Final,https://nces.ed.gov/ipeds/datacenter/data/EF2022.zip
+2022,202223,Fall Enrollment,EF2022A,"Race/ethnicity, gender, attendance status, and level of student: Fall 2022",Final,https://nces.ed.gov/ipeds/datacenter/data/EF2022A.zip
+2022,202223,Fall Enrollment,EF2022CP,"Major field of study, race/ethnicity, gender, attendance status, and level of student: Fall2022",Final,https://nces.ed.gov/ipeds/datacenter/data/EF2022CP.zip
+2022,202223,Fall Enrollment,EF2022B,"Age category, gender, attendance status, and level of student: Fall 2022 (optional)",Final,https://nces.ed.gov/ipeds/datacenter/data/EF2022B.zip
+2022,202223,Fall Enrollment,EF2022C,Residence and migration of first-time freshman: Fall 2022,Final,https://nces.ed.gov/ipeds/datacenter/data/EF2022C.zip
+2022,202223,Fall Enrollment,EF2022D,"Total entering class, retention rates, and student-to-faculty ratio: Fall 2022",Final,https://nces.ed.gov/ipeds/datacenter/data/EF2022D.zip
+2022,202223,Fall Enrollment,EF2022A_DIST,Distance education status and level of student: Fall 2022,Final,https://nces.ed.gov/ipeds/datacenter/data/EF2022A_DIST.zip
+2022,202223,Fall Enrollment,DRVEF2022,Frequently used derived variables (EF): Fall enrollment 2022,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVEF2022.zip
+2022,202223,Completions,DRVC2022,"Frequently used derived variables (C): Completions, July 1, 2021 to June 30, 2022",Final,https://nces.ed.gov/ipeds/datacenter/data/DRVC2022.zip
+2022,202223,Completions,C2022_A,"Awards/degrees conferred by program (6-digit CIP code), award level, race/ethnicity, and gender: July 1, 2021 to June 30, 2022",Final,https://nces.ed.gov/ipeds/datacenter/data/C2022_A.zip
+2022,202223,Completions,C2022_B,"Number of students receiving awards/degrees, by race/ethnicity and gender: July 1, 2021 to June 30, 2022",Final,https://nces.ed.gov/ipeds/datacenter/data/C2022_B.zip
+2022,202223,Completions,C2022_C,"Number of students receiving awards/degrees, by award level and by gender, race/ethnicity and age categories: July 1, 2021 to June 30, 2022",Final,https://nces.ed.gov/ipeds/datacenter/data/C2022_C.zip
+2022,202223,Completions,C2022DEP,"Number of programs offered and number of programs offered via distance education, by award level: July 1, 2021 to June 30, 2022",Final,https://nces.ed.gov/ipeds/datacenter/data/C2022DEP.zip
+2022,202223,Student Financial Aid,SFA2122_P1,Student financial aid: 2021-22,Final,https://nces.ed.gov/ipeds/datacenter/data/SFA2122_P1.zip
+2022,202223,Student Financial Aid,SFA2122_P2,Student financial aid and net price: 2021-22,Final,https://nces.ed.gov/ipeds/datacenter/data/SFA2122_P2.zip
+2022,202223,Student Financial Aid,SFAV2122,"Military Servicemembers and Veteran's Benefits, 2021-22",Final,https://nces.ed.gov/ipeds/datacenter/data/SFAV2122.zip
+2022,202223,Graduation Rates,GR2022,"Graduation rate data, 150% of normal time to complete - cohort year 2016 (4-year) and cohort year 2019 (2-year) institutions",Final,https://nces.ed.gov/ipeds/datacenter/data/GR2022.zip
+2022,202223,Graduation Rates,GR2022_L2,"Graduation rate data, 150% of normal time to complete - cohort year 2019 (less-than-2-year institutions)",Final,https://nces.ed.gov/ipeds/datacenter/data/GR2022_L2.zip
+2022,202223,Graduation Rates,GR2022_PELL_SSL,"Graduation rate data for Pell Grant and Subsidized Stafford loan recipients, 150% of normal time to complete - cohort year 2016 (4-year) and cohort year 2019 (2-year) institutions",Final,https://nces.ed.gov/ipeds/datacenter/data/GR2022_PELL_SSL.zip
+2022,202223,Graduation Rates,GR200_22,"Graduation rate data, 200% of normal time to complete - cohort year 2014  (4-year) and cohort year 2018 (less-than-4-year)  institutions",Final,https://nces.ed.gov/ipeds/datacenter/data/GR200_22.zip
+2022,202223,Graduation Rates,DRVGR2022,Frequently used derived variables (GR) 150% of normal time to complete - cohort year 2016 (4-year) and cohort year 2019 (2-year) institutions,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVGR2022.zip
+2022,202223,Graduation Rates,GR2022_GENDER,Gender unknown reported in revised cohorts - cohort year 2016 (4-year) and cohort year 2019 (less-than-4-year) institutions,Final,https://nces.ed.gov/ipeds/datacenter/data/GR2022_GENDER.zip
+2022,202223,Outcome Measures,OM2022,Award and enrollment data at six and eight years for  entering undergraduate cohorts from 2014-15 degree granting institutions,Final,https://nces.ed.gov/ipeds/datacenter/data/OM2022.zip
+2022,202223,Outcome Measures,DRVOM2022,"Frequently used derived variables (OM) Award and enrollment rates of degree/certificate-seeking undergraduates, 2014-15 cohort",Final,https://nces.ed.gov/ipeds/datacenter/data/DRVOM2022.zip
+2022,202223,Finance,F2122_F1A,Public institutions - GASB 34/35: Fiscal year 2022,Final,https://nces.ed.gov/ipeds/datacenter/data/F2122_F1A.zip
+2022,202223,Finance,F2122_F2,Private not-for-profit institutions or Public institutions using FASB: Fiscal year 2022,Final,https://nces.ed.gov/ipeds/datacenter/data/F2122_F2.zip
+2022,202223,Finance,F2122_F3,Private for-profit institutions: Fiscal year 2022,Final,https://nces.ed.gov/ipeds/datacenter/data/F2122_F3.zip
+2022,202223,Finance,DRVF2022,Frequently used/derived variables Finance (F): Fiscal year 2022,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVF2022.zip
+2022,202223,Human Resources,EAP2022,"Number of staff by occupational category, faculty and tenure status:  Fall 2022",Final,https://nces.ed.gov/ipeds/datacenter/data/EAP2022.zip
+2022,202223,Human Resources,SAL2022_IS,"Number and salary outlays for full-time nonmedical instructional staff, by  gender, and academic rank:  Academic year 2022-23",Final,https://nces.ed.gov/ipeds/datacenter/data/SAL2022_IS.zip
+2022,202223,Human Resources,SAL2022_NIS,Number and salary outlays for full-time nonmedical  noninstructional staff by occupation: Academic year 2022-23,Final,https://nces.ed.gov/ipeds/datacenter/data/SAL2022_NIS.zip
+2022,202223,Human Resources,S2022_OC,"Full- and part-time staff by occupational category, race/ethnicity, and gender:  Fall 2022",Final,https://nces.ed.gov/ipeds/datacenter/data/S2022_OC.zip
+2022,202223,Human Resources,S2022_SIS,"Full-time instructional staff, by academic rank, faculty and tenure status  (Degree-granting institutions): Fall 2022",Final,https://nces.ed.gov/ipeds/datacenter/data/S2022_SIS.zip
+2022,202223,Human Resources,S2022_IS,"Full-time instructional staff, by faculty and tenure status, academic rank, race/ethnicity, and gender (Degree-granting institutions): Fall 2022",Final,https://nces.ed.gov/ipeds/datacenter/data/S2022_IS.zip
+2022,202223,Human Resources,S2022_NH,"New hires by occupational category, race/ethnicity, and gender (Degree-granting institutions):  Fall 2022",Final,https://nces.ed.gov/ipeds/datacenter/data/S2022_NH.zip
+2022,202223,Human Resources,DRVHR2022,Frequently used/derived variables Human resources (HR): Fall 2022,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVHR2022.zip
+2022,202223,Academic Libraries,AL2022,"Academic Libraries, Fiscal year 2022",Final,https://nces.ed.gov/ipeds/datacenter/data/AL2022.zip
+2022,202223,Academic Libraries,DRVAL2022,Frequently used/derived variables Academic library indicators: Fiscal year 2022,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVAL2022.zip
+2023,202324,Institutional Characteristics,HD2023,Directory information,Provisional/final (institutions are not  allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/HD2023.zip
+2023,202324,Institutional Characteristics,FLAGS2023,Response status for all survey components,Final,https://nces.ed.gov/ipeds/datacenter/data/FLAGS2023.zip
+2023,202324,Institutional Characteristics,IC2023,"Educational offerings, organization, admissions, services and athletic associations",Final,https://nces.ed.gov/ipeds/datacenter/data/IC2023.zip
+2023,202324,Institutional Characteristics,IC2023_AY,Student charges for academic year programs,Provisional/final (institutions are not  allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/IC2023_AY.zip
+2023,202324,Institutional Characteristics,IC2023_PY,Student charges by program (vocational programs),Provisional/final (institutions are not  allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/IC2023_PY.zip
+2023,202324,Institutional Characteristics,DRVIC2023,Frequently used derived variables (IC): Total cost of attendance,Provisional/final (institutions are not  allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/DRVIC2023.zip
+2023,202324,Institutional Characteristics,IC2023MISSION,Mission statement,Provisional/final (institutions are not  allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/IC2023MISSION.zip
+2023,202324,Institutional Characteristics,CUSTOMCGIDS2023,Custom comparison groups,Provisional/final (institutions are not  allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/CUSTOMCGIDS2023.zip
+2023,202324,Institutional Characteristics,IC2023_PCCAMPUSES,Branch campus locations listed on College Navigator,Provisional/final (institutions are not  allowed to revise these data),https://nces.ed.gov/ipeds/datacenter/data/IC2023_PCCAMPUSES.zip
+2023,202324,Admissions,ADM2023,"Admission considerations, applicants, admissions, and test scores",Final,https://nces.ed.gov/ipeds/datacenter/data/ADM2023.zip
+2023,202324,Admissions,DRVADM2023,Frequently used derived variables for admissions. Selectivity and admissions yield,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVADM2023.zip
+2023,202324,12-month Enrollment,EFFY2023,12-month unduplicated headcount: 2022-23,Final,https://nces.ed.gov/ipeds/datacenter/data/EFFY2023.zip
+2023,202324,12-month Enrollment,EFIA2023,12-month instructional activity: 2022-23,Final,https://nces.ed.gov/ipeds/datacenter/data/EFIA2023.zip
+2023,202324,12-month Enrollment,EFFY2023_DIST,12-month unduplicated headcount by distance education status and level of student: 2022-23,Final,https://nces.ed.gov/ipeds/datacenter/data/EFFY2023_DIST.zip
+2023,202324,12-month Enrollment,EFFY2023_HS,12-month unduplicated headcount of dual enrolled students by race/ethnicity and gender: 2022-23,Final,https://nces.ed.gov/ipeds/datacenter/data/EFFY2023_HS.zip
+2023,202324,12-month Enrollment,DRVEF122023,"Frequently used derived variables (E12): 12-month enrollment, 2022-23",Final,https://nces.ed.gov/ipeds/datacenter/data/DRVEF122023.zip
+2023,202324,Fall Enrollment,EF2023,"Gender, attendance status, and level of student: Fall 2023",Final,https://nces.ed.gov/ipeds/datacenter/data/EF2023.zip
+2023,202324,Fall Enrollment,EF2023A,"Race/ethnicity, gender, attendance status, and level of student: Fall 2023",Final,https://nces.ed.gov/ipeds/datacenter/data/EF2023A.zip
+2023,202324,Fall Enrollment,EF2023B,"Age category, gender, attendance status, and level of student: Fall 2023",Final,https://nces.ed.gov/ipeds/datacenter/data/EF2023B.zip
+2023,202324,Fall Enrollment,EF2023C,Residence and migration of first-time freshman: Fall 2023 (optional),Final,https://nces.ed.gov/ipeds/datacenter/data/EF2023C.zip
+2023,202324,Fall Enrollment,EF2023D,"Total entering class, retention rates, and student-to-faculty ratio: Fall 2023",Final,https://nces.ed.gov/ipeds/datacenter/data/EF2023D.zip
+2023,202324,Fall Enrollment,EF2023A_DIST,Distance education status and level of student: Fall 2023,Final,https://nces.ed.gov/ipeds/datacenter/data/EF2023A_DIST.zip
+2023,202324,Fall Enrollment,DRVEF2023,Frequently used derived variables (EF): Fall enrollment 2023,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVEF2023.zip
+2023,202324,Completions,DRVC2023,"Frequently used derived variables (C): Completions, July 1, 2022 to June 30, 2023",Final,https://nces.ed.gov/ipeds/datacenter/data/DRVC2023.zip
+2023,202324,Completions,C2023_A,"Awards/degrees conferred by program (6-digit CIP code), award level, race/ethnicity, and gender: July 1, 2022 to June 30, 2023",Final,https://nces.ed.gov/ipeds/datacenter/data/C2023_A.zip
+2023,202324,Completions,C2023_B,"Number of students receiving awards/degrees, by race/ethnicity and gender: July 1, 2022 to June 30, 2023",Final,https://nces.ed.gov/ipeds/datacenter/data/C2023_B.zip
+2023,202324,Completions,C2023_C,"Number of students receiving awards/degrees, by award level and by gender, race/ethnicity and age categories: July 1, 2022 to June 30, 2023",Final,https://nces.ed.gov/ipeds/datacenter/data/C2023_C.zip
+2023,202324,Completions,C2023DEP,"Number of programs offered and number of programs offered via distance education, by award level: July 1, 2022 to June 30, 2023",Final,https://nces.ed.gov/ipeds/datacenter/data/C2023DEP.zip
+2023,202324,Student Financial Aid,SFA2223_P1,Student financial aid: 2022-23,Final,https://nces.ed.gov/ipeds/datacenter/data/SFA2223_P1.zip
+2023,202324,Student Financial Aid,SFA2223_P2,Student financial aid and net price: 2022-23,Final,https://nces.ed.gov/ipeds/datacenter/data/SFA2223_P2.zip
+2023,202324,Student Financial Aid,SFAV2223,"Military Servicemembers and Veteran's Benefits, 2022-23",Final,https://nces.ed.gov/ipeds/datacenter/data/SFAV2223.zip
+2023,202324,Graduation Rates,GR2023,"Graduation rate data, 150% of normal time to complete - cohort year 2017 (4-year) and cohort year 2020 (2-year) institutions",Final,https://nces.ed.gov/ipeds/datacenter/data/GR2023.zip
+2023,202324,Graduation Rates,GR2023_L2,"Graduation rate data, 150% of normal time to complete - cohort year 2020 (less-than-2-year institutions)",Final,https://nces.ed.gov/ipeds/datacenter/data/GR2023_L2.zip
+2023,202324,Graduation Rates,GR2023_PELL_SSL,"Graduation rate data for Pell Grant and Direct Subsidized loan recipients, 150% of normal time to complete - cohort year 2017 (4-year) and cohort year 2020 (2-year) institutions",Final,https://nces.ed.gov/ipeds/datacenter/data/GR2023_PELL_SSL.zip
+2023,202324,Graduation Rates,GR200_23,"Graduation rate data, 200% of normal time to complete - cohort year 2015  (4-year) and cohort year 2019 (less-than-4-year)  institutions",Final,https://nces.ed.gov/ipeds/datacenter/data/GR200_23.zip
+2023,202324,Graduation Rates,DRVGR2023,Frequently used derived variables (GR) 150% of normal time to complete - cohort year 2017 (4-year) and cohort year 2020 (2-year) institutions,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVGR2023.zip
+2023,202324,Graduation Rates,GR2023_GENDER,Gender unknown reported in revised cohorts - cohort year 2017 (4-year) and cohort year 2020 (less-than-4-year) institutions,Final,https://nces.ed.gov/ipeds/datacenter/data/GR2023_GENDER.zip
+2023,202324,Outcome Measures,OM2023,"Award and enrollment data at four, six and eight years for  entering undergraduate cohorts from 2015-16 degree granting institutions",Final,https://nces.ed.gov/ipeds/datacenter/data/OM2023.zip
+2023,202324,Outcome Measures,DRVOM2023,"Frequently used derived variables (OM) Award and enrollment rates of degree/certificate-seeking undergraduates, 2015-16 cohort",Final,https://nces.ed.gov/ipeds/datacenter/data/DRVOM2023.zip
+2023,202324,Finance,F2223_F1A,Public institutions - GASB 34/35: Fiscal year 2023,Final,https://nces.ed.gov/ipeds/datacenter/data/F2223_F1A.zip
+2023,202324,Finance,F2223_F2,Private not-for-profit institutions or Public institutions using FASB: Fiscal year 2023,Final,https://nces.ed.gov/ipeds/datacenter/data/F2223_F2.zip
+2023,202324,Finance,F2223_F3,Private for-profit institutions: Fiscal year 2023,Final,https://nces.ed.gov/ipeds/datacenter/data/F2223_F3.zip
+2023,202324,Finance,DRVF2023,Frequently used/derived variables Finance (F): Fiscal year 2023,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVF2023.zip
+2023,202324,Human Resources,EAP2023,"Number of staff by occupational category, faculty and tenure status:  Fall 2023",Final,https://nces.ed.gov/ipeds/datacenter/data/EAP2023.zip
+2023,202324,Human Resources,SAL2023_IS,"Number and salary outlays for full-time nonmedical instructional staff, by  gender, and academic rank:  Academic year 2023-24",Final,https://nces.ed.gov/ipeds/datacenter/data/SAL2023_IS.zip
+2023,202324,Human Resources,SAL2023_NIS,Number and salary outlays for full-time nonmedical  noninstructional staff by occupation: Academic year 2023-24,Final,https://nces.ed.gov/ipeds/datacenter/data/SAL2023_NIS.zip
+2023,202324,Human Resources,S2023_OC,"Full- and part-time staff by occupational category, race/ethnicity, and gender:  Fall 2023",Final,https://nces.ed.gov/ipeds/datacenter/data/S2023_OC.zip
+2023,202324,Human Resources,S2023_SIS,"Full-time instructional staff, by academic rank, faculty and tenure status  (Degree-granting institutions): Fall 2023",Final,https://nces.ed.gov/ipeds/datacenter/data/S2023_SIS.zip
+2023,202324,Human Resources,S2023_IS,"Full-time instructional staff, by faculty and tenure status, academic rank, race/ethnicity, and gender (Degree-granting institutions): Fall 2023",Final,https://nces.ed.gov/ipeds/datacenter/data/S2023_IS.zip
+2023,202324,Human Resources,S2023_NH,"New hires by occupational category, race/ethnicity, and gender (Degree-granting institutions):  Fall 2023",Final,https://nces.ed.gov/ipeds/datacenter/data/S2023_NH.zip
+2023,202324,Human Resources,DRVHR2023,Frequently used/derived variables Human resources (HR): Fall 2023,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVHR2023.zip
+2023,202324,Academic Libraries,AL2023,"Academic Libraries, Fiscal year 2023",Final,https://nces.ed.gov/ipeds/datacenter/data/AL2023.zip
+2023,202324,Academic Libraries,DRVAL2023,Frequently used/derived variables Academic library indicators: Fiscal year 2023,Final,https://nces.ed.gov/ipeds/datacenter/data/DRVAL2023.zip

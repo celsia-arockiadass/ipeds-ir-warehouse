@@ -45,6 +45,114 @@ ingest:
   # Politeness delay between downloads against a public federal server.
   delay_between_requests_seconds: 1
 
+# Which tables from the manifest we actually download.
+#
+# The manifest lists all 501 tables NCES published across the ten collection
+# years. We download the subset that feeds the dimensional model, plus the
+# NCES derived tables which are used only to validate our own computed rates
+# against theirs.
+#
+# Patterns are regular expressions matched against the full table name,
+# anchored at both ends. The four digit group is deliberately loose because
+# it means two different things depending on the survey: a collection year
+# for most tables (HD2023), and a two year academic label for finance and
+# financial aid (F2223_F1A). Note that the 2020-21 label is literally "2021",
+# which is indistinguishable from a four digit year. That collision is why
+# table names are read from the manifest and never parsed.
+selection:
+  include_patterns:
+    # Institution dimension and characteristics
+    - "^HD\\d{4}$"
+    - "^IC\\d{4}$"
+    - "^IC\\d{4}_AY$"
+    - "^FLAGS\\d{4}$"
+    # Enrollment
+    - "^EF\\d{4}A$"
+    - "^EF\\d{4}B$"
+    - "^EFFY\\d{4}$"
+    - "^EFIA\\d{4}$"
+    # Completions
+    - "^C\\d{4}_A$"
+    - "^C\\d{4}_C$"
+    # Graduation rates and outcome measures
+    - "^GR\\d{4}$"
+    - "^GR200_\\d{2}$"
+    - "^GR\\d{4}_L2$"
+    - "^GR\\d{4}_PELL_SSL$"
+    - "^OM\\d{4}$"
+    # Student financial aid
+    - "^SFA\\d{4}_P1$"
+    - "^SFA\\d{4}_P2$"
+    # Finance
+    - "^F\\d{4}_F1A$"
+    - "^F\\d{4}_F2$"
+    - "^F\\d{4}_F3$"
+    # Human resources
+    - "^EAP\\d{4}$"
+    - "^S\\d{4}_IS$"
+    - "^SAL\\d{4}_IS$"
+    # Admissions
+    - "^ADM\\d{4}$"
+    # NCES derived tables. VALIDATION ONLY.
+    # These contain rates NCES computed themselves. They must never be the
+    # source for a fact table, because computing retention and graduation to
+    # federal methodology is the point of Layer 4. They are loaded so our
+    # computed rates can be checked against theirs in Phase 7.
+    - "^DRVEF\\d{4}$"
+    - "^DRVGR\\d{4}$"
+    - "^DRVC\\d{4}$"
+    - "^DRVADM\\d{4}$"
+    - "^DRVF\\d{4}$"
+    - "^DRVHR\\d{4}$"
+
+  # The documentation table name is not always the download file name.
+  #
+  # Tablesdoc lists tables as they exist in the Access database. Access has a
+  # column limit, so NCES splits very wide tables into _P1 and _P2 parts
+  # there. The Complete Data Files CSV has no such limit and ships the table
+  # undivided. For most surveys the two naming schemes agree, which is why
+  # 235 of 297 files downloaded correctly. Student Financial Aid is the
+  # exception: SFA2223_P1 and SFA2223_P2 in the documentation are a single
+  # SFA2223.zip in the data files.
+  #
+  # Discovered 2026-08-09 when all 20 SFA tables returned 404. Each rule is a
+  # regex applied to the table name to produce the download file name.
+  # Multiple table names mapping to the same file are downloaded once.
+  #
+  # Note that F2223_F1A and friends are NOT affected. F1A, F2 and F3 are
+  # genuinely different finance forms for different institutional control
+  # types, not parts of a split table, and they download under their own names.
+  download_name_overrides:
+    - pattern: "^(SFA\\d{4})_P\\d$"
+      replacement: "\\1"
+
+  # Tables NCES does not publish, confirmed by 404 on a real request.
+  # Listed here so reruns skip them instead of re-requesting 42 files that
+  # will never exist. They are still recorded in the download log as
+  # KNOWN_MISSING so the record stays complete.
+  #
+  # NCES began publishing derived (DRV) tables in 2021. For 2014 to 2020
+  # there are none. Consequence for Phase 7: our computed retention and
+  # graduation rates can only be cross-checked against NCES's own derived
+  # figures for 2021, 2022 and 2023. This is a documented limitation, not a
+  # defect, and belongs in the README.
+  known_missing_patterns:
+    - "^DRV(ADM|C|EF|F|GR|HR)20(1[4-9]|20)$"
+
+  # Excluded deliberately, recorded so the omission is a decision rather than
+  # an oversight. None of these feed a fact table.
+  #   Academic Libraries (AL, DRVAL)   out of scope for student outcomes
+  #   CUSTOMCGIDS                      custom comparison group ids, not needed
+  #   IC*MISSION                       free text mission statements
+  #   IC*_PY                           program year tuition, 2 of 10 years useful
+  #   IC*_PCCAMPUSES                   2021 onward only
+  #   EF*C, EF*D, EF*_DIST, EF*CP      residence, age and distance detail
+  #   EFFY*_DIST, EFFY*_HS             distance and high school detail
+  #   C*_B, C*DEP                      completions detail not used in the model
+  #   SFAV*                            aid for veterans, separate population
+  #   S*_NH, S*_OC, S*_SIS, SAL*_NIS   staff detail beyond instructional staff
+  #   DRVIC, DRVOM, DRVEF12, DRVAL     derived tables for excluded surveys
+
 logging:
   level: "INFO"
   file: "data/logs/pipeline.log"
